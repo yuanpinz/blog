@@ -37,7 +37,7 @@ author:
   type      : # "person" (default), "organization"
   name      : Yuanpin Zhou
   url       :
-  avatar    : avatar.jpg # path or url of avatar image (square)
+  avatar    : https://raw.githubusercontent.com/yuanpinz/blog/main/avatar.jpg # path or url of avatar image (square)
   bio       : I am an amazing person.
   email     : yuanpinzhou@gmail.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
