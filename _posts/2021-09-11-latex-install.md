@@ -122,5 +122,5 @@ Create a `text.tex` file below and use  `Recipe: xelatex` to compile. You should
 \end{document}
 ```
 
-![](/assets/images/hello-latex.png)
+![](https://github.com/yuanpinz/blog/tree/main/assets/images/posts/hello-latex.png)
 
