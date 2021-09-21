@@ -121,5 +121,5 @@ Create a `text.tex` file below and use  `Recipe: xelatex` to compile. You should
 \end{document}
 ```
 
-![]({{site.url}}/assets/images/posts/image-20210908120344678.png)
+![](/assets/images/posts/hello-latex.png)
 
