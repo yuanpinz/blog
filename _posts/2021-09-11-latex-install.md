@@ -1,7 +1,7 @@
 ---
 title: LaTeX Install & Config [TeXLive + WSL2+ VSCode]
 tags: ["latex", "wsl2", "vscode"]
-category: programming
+categories: ["programming"]
 key: latex-install
 ---
 
