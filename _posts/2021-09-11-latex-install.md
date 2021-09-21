@@ -1,6 +1,7 @@
 ---
 title: LaTeX Install & Config [TeXLive + WSL2+ VSCode]
-tags: latex vscode wsl2
+tags: ["latex", "wsl2", "vscode"]
+category: programming
 key: latex-install
 ---
 
@@ -121,5 +122,5 @@ Create a `text.tex` file below and use  `Recipe: xelatex` to compile. You should
 \end{document}
 ```
 
-![](/assets/images/posts/hello-latex.png)
+![](/assets/images/hello-latex.png)
 
