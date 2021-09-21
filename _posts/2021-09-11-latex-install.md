@@ -4,8 +4,6 @@ tags: latex, vscode, wsl2
 key: latex-install
 ---
 
-# LaTeX Install & Config [TeXLive + WSL2+ VSCode]
-
 ## Install TeXLive on WSL2
 
 Check out the official [quick installation instructions](https://www.tug.org/texlive/quickinstall.html).
@@ -123,5 +121,5 @@ Create a `text.tex` file below and use  `Recipe: xelatex` to compile. You should
 \end{document}
 ```
 
-![image-20210908120344678](imgs/image-20210908120344678.png)
+![](/assets/images/posts/image-20210908120344678.png)
 
