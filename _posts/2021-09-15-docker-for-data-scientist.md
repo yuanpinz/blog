@@ -299,7 +299,7 @@ To be simple, all you need to do is to install the [Docker extension](https://ma
 
 **Step 1**. Since I installed Docker on the remote server, I connected to my server through SSH in vscode and installed the Docker extension (You may need to restart vscode after the installation). If your Docker is installed on your local machine, skip the SSH step and installed the extension locally. **Open a workspace. (I don't know why but this is important, otherwise you will get the "*There are no running containers to attach to*" error when you try to attach to a Container later)**. Now you can check your Containers and Images through vscode.
 
-![image-20210915152006183](imgs/image-20210915152006183.png)
+![image-20210915152006183](https://raw.githubusercontent.com/yuanpinz/blog/main/assets/images/posts/image-20210915152006183.png)
 
 **Step 2**. Run a Container in the background through command line. 
 
