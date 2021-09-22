@@ -3,9 +3,12 @@ layout: article
 title: About
 key: page-about 
 ---
-## Machine learning, programming and everything else
+I'm a rookie data scientist. This blog is about machine learning, programming and everything else.
 
-### Current Research Interest
-
-`#multiple instance learning`, `#self-supervised learning`, `#semi-supervised learning`, `#data centric`, `#anomaly detection`
+**My Current Research Interest**
+`#multiple instance learning`
+`#self-supervised learning`
+`#semi-supervised learning`
+`#data centric`
+`#anomaly detection`
 
