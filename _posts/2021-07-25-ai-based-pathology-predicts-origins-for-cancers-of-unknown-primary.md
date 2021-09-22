@@ -1,5 +1,5 @@
 ---
-title: Paper Reading: AI-based pathology predicts origins for cancers of unknown primary
+title: "Paper Reading: AI-based pathology predicts origins for cancers of unknown primary"
 tags: ["paper reading", "pathology", "multiple instance learning"]
 categories: ["machine learning"]
 key: pr-pathology-cup
