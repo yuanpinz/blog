@@ -262,7 +262,7 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 >     
 >     Add as many paragraphs as you like.
 
-## Definition Lists [Extended List]
+## Definition Lists [Extended Syntax]
 
 ```markdown
 First Term
