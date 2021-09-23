@@ -320,7 +320,7 @@ like this.
 
 ```markdown
 <p align="center">
-    This is a right aligned paragraph.
+    This is a center aligned paragraph.
     Check it out.
 </p>
 ```
