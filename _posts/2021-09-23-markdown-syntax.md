@@ -252,9 +252,9 @@ Here's a simple footnote,[^f] and here's a longer one.[^bignote]
     Add as many paragraphs as you like.
 ```
 
-> Here's a simple footnote,[^1] and here's a longer one.[^bignote]
+> Here's a simple footnote,[^f] and here's a longer one.[^bignote]
 >
-> [^1]: This is the first footnote.
+> [^f]: This is the first footnote.
 >
 > [^bignote]: Here's one with multiple paragraphs and code.
 >
