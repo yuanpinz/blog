@@ -175,6 +175,8 @@ Gone camping! :tent: Be back soon. That is so funny! :joy:
 >![Google.com](https://raw.githubusercontent.com/yuanpinz/blog/main/assets/images/posts/google-icon.png "Google it")
 >
 >[![Google with link](https://raw.githubusercontent.com/yuanpinz/blog/main/assets/images/posts/google-icon.png "Google it")](https://www.google.com/)
+>
+>
 
 ### Heading IDs [Extended Syntax]
 
@@ -237,9 +239,9 @@ print('hello world')
 ## Footnotes [Extended Syntax]
 
 ```markdown
-Here's a simple footnote,[^1] and here's a longer one.[^bignote]
+Here's a simple footnote,[^f] and here's a longer one.[^bignote]
 
-[^1]: This is the first footnote.
+[^f]: This is the first footnote.
 
 [^bignote]: Here's one with multiple paragraphs and code.
 
