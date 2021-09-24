@@ -19,7 +19,7 @@ key: page-gallery
 
 ### Movies
 
-| [![](https://raw.githubusercontent.com/yuanpinz/blog/main/assets/images/pages/nightcrawler.jpg "Nightcrawler")](https://youtu.be/X8kYDQan8bw) | [![](https://raw.githubusercontent.com/yuanpinz/blog/main/assets/images/pages/birdman.jpg "Birdman")](https://youtu.be/uJfLoE6hanc) | [![](https://raw.githubusercontent.com/yuanpinz/blog/main/assets/images/pages/babel.jpg "Babel")](https://youtu.be/yDNa6t-TDrQ) |
+| [![](https://raw.githubusercontent.com/yuanpinz/blog/main/assets/images/pages/nightcrawler.jpg "Nightcrawler")](https://youtu.be/X8kYDQan8bw) | [![](https://raw.githubusercontent.com/yuanpinz/blog/main/assets/images/pages/birdman.png "Birdman")](https://youtu.be/uJfLoE6hanc) | [![](https://raw.githubusercontent.com/yuanpinz/blog/main/assets/images/pages/babel.png "Babel")](https://youtu.be/yDNa6t-TDrQ) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |                                                              |                                                              |                                                              |
 
