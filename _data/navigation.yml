@@ -1,5 +1,8 @@
 header:
   - titles:
+    url: /conferences.html
+
+  - titles:
       # @start locale config
       en      : &EN       Archive
       en-GB   : *EN
@@ -48,3 +51,4 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: /about.html
+ 

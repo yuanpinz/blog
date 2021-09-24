@@ -7,15 +7,17 @@ I'm a rookie data scientist. This blog is about machine learning, programming an
 
 ### My Current Research Interest
 
-`#multiple instance learning`
+`multiple instance learning`
 
-`#self-supervised learning`
+`semi-supervised learning`
 
-`#semi-supervised learning`
+`self-supervised learning`
 
-`#data centric`
+`contrastive learning`
 
-`#anomaly detection`
+`data centric`
+
+`anomaly detection/ novelty detection/ outlier detection/ out-of-distribution detection/ one-class classification`
 
 ### Super Duper Helpful Websites
 
