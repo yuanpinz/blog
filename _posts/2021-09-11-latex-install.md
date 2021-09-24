@@ -1,11 +1,11 @@
 ---
-title: LaTeX Install & Config [TeXLive + WSL2+ VSCode]
+title: Install TeXLive in WSL2 Using VSCode as Editor and configuring support for Chinese
 tags: ["latex", "wsl2", "vscode"]
 categories: ["programming"]
 key: latex-install
 ---
 
-## Install TeXLive on WSL2
+## Install TeXLive in WSL2
 
 Check out the official [quick installation instructions](https://www.tug.org/texlive/quickinstall.html).
 

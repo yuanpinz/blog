@@ -1,5 +1,5 @@
 ---
-title: Quotes of Symbols from The Catcher in the Rye
+title: "Book Notes: Quotes of Symbols from The Catcher in The Rye"
 tags: ["the catcher in the rye", "novel", "book notes"]
 categories: ["programming"]
 key: quotes-symbols-the-catcher-in-the-rye
