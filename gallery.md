@@ -6,7 +6,7 @@ key: page-gallery
 
 ## :camera: My flickr
 
-[![](https://raw.githubusercontent.com/yuanpinz/blog/main/assets/images/pages/flickr-page.png.png "My flickr")](https://www.flickr.com/photos/yuanpinz/)
+[![](https://raw.githubusercontent.com/yuanpinz/blog/main/assets/images/pages/flickr-page.png "My flickr")](https://www.flickr.com/photos/yuanpinz/)
 
 ## Things I recommend
 
