@@ -7,6 +7,8 @@ key: markdown-syntax
 
 `Markdown` is a useful tool to write documents and blog posts (like this one that I'm writing). Markdown syntax is easy to learn. Here I'd introduce the Markdown syntax that will meet 99% of your daily need.
 
+<!--more-->
+
 ## Headings
 
 ```markdown
