@@ -60,6 +60,8 @@ line2
 
 ## Style
 
+### Bold, Italic or both
+
 ```markdown
 **bold**
 
@@ -107,6 +109,8 @@ Gone camping! :tent: Be back soon. That is so funny! :joy:
 >  > > nested blockquotes
 
 ## Lists
+
+### Order & Unorder Lists
 
 ```
 1. order list
@@ -200,13 +204,15 @@ This is [my great heading 1](#my-great-heading-1), another one is [here](#custom
 
 ## Code
 
+### Inline Code
+
 ````markdown
 `print('hello world')`
 ````
 
 > `print('hello world')`
 
-**Syntax Highlighting [Extended Syntax]**
+### Code Block with Highlighting [Extended Syntax]
 
 ````markdown
 ```python
