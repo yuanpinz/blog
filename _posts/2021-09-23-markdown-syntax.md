@@ -5,6 +5,8 @@ categories: ["programming"]
 key: markdown-syntax
 ---
 
+`Markdown` is a useful tool to write documents and blog posts (like this one that I'm writing). Markdown syntax is easy to learn. Here I'd introduce the Markdown syntax that will meet 99% of your daily need.
+
 ## Headings
 
 ```markdown
@@ -267,6 +269,8 @@ Here's a simple footnote,[^f] and here's a longer one.[^bignote]
 >     Add as many paragraphs as you like.
 
 ## Definition Lists [Extended Syntax]
+
+This syntax is not supported by `Typora`.
 
 ```markdown
 First Term
