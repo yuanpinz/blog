@@ -1,4 +1,7 @@
 header:
+  - title: Gallery
+    url: /gallery.html
+    
   - title: Conferences
     url: /conferences.html
 
