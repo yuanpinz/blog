@@ -1,6 +1,6 @@
 ---
 layout: article
-title: ML Watch
+title: Your Daily (or Maybe Monthly) Dose of
 key: page-mlwatch 
 aside:
     toc: true
@@ -8,11 +8,43 @@ aside:
 
 # Reddit/r/\<ML Topics\>
 
-## r/datascience: [Data science even at mature companies can be a mixed bag.](https://www.reddit.com/r/datascience/comments/pu1y72/data_science_even_at_mature_companies_can_be_a/)
+### r/datascience: [Advice to all job seekers: be as critical to the company as they are to you](https://www.reddit.com/r/datascience/comments/puh45x/advice_to_all_job_seekers_be_as_critical_to_the/)
 
-> Posted by
+> Posted by [u/the75th](https://www.reddit.com/user/the75th/)
 >
-> [u/__compactsupport__](https://www.reddit.com/user/__compactsupport__/)
+> Been seeing a lot of posts recently of people being hired to do data science and ending up in, from a data point of view, suboptimal work places. In my opinion many of these places had red flags from to get go based on the description of the company they gave.
+>
+> My main advice is to be as critical to the company as they are to you:
+>
+> Screen their job posting with as much rigour as they screen your CV trying to get a sense of what you'll *really* be doing irrespective of your 'data scientist' job title. Typical red flags for me would be (not exhaustive):
+>
+> - No mention of cloud related tooling.
+> - SQL and data warehousing featuring more promintently than anything else. Reason being that if I wanted to do a DA job, which I really enjoyed from past experiences, I would just apply for that.
+> - No mention of any kind of version control.
+> - "Use whatever tools and languages you want on the job". This one is very particular but to me that would indicate no standardisation, probably a lot of csv files, excel users, ad-hoc analysis on notebooks and very little being put into production / automated. This might be a pet peeve but I believe in many cases long term value from data can't *just* be done through ad-hoc analyses and 99 % of companies aren't mature enough to let everyone use their own tools without it becoming an unmaintanable mess.
+> - No mention of anything casual. This one is personal, colleagues are colleagues and not necessarily friends but a workplace with a few social amenities would make being 8-9 hours in the office more bearable.
+>
+> Not all of the information you value can be gotten from the job posting so the next step would be to think about what you value ahead of the interview and ask them in a polite manner. Job interviews should be as much of you deciding if they are a fit for you as vice versa.
+>
+> This may help you to uncover small details that can help you decide picking one offer over the other. Even if you only have 1 offer knowing what you're getting into in advance can help you make peace with / prepare for it.
+
+> [Trylks](https://www.reddit.com/user/Trylks/)
+>
+> If I discard all places with red flags, I will only be able to work for myself, which is not necessarily a bad thing, but may not be for everyone.
+>
+> Note: as a freelancer, consultant, etc. you are still working for your clients, and they show red flags just the same.
+>
+> WRT OPs red flags, I only agree on the second (SQL), as a freelancer / consultant you are expected to "be on your own" on those points, i.e. those are not red flags to me.
+>
+> What are red flags for me? Off the top of my head:
+>
+> - Unrealistic expectations (the parent of all): "we want you to build and train GPT-4 for us, for $5000, in two weeks".
+> - Micromanagement: "We have already decided what we are going to do and how we are going to do it. We want to hire you to apply linear regression to find a number between 3 and 5 that will magically make our decisions the right decisions. We do not know why the last 5 data scientists rejected to do a simple linear regression".
+> - Lack of maturity: "We do not have any data. We want to hire you do do data science for us. Any advanced enough technology is like magic, we want you to show us your divination powers."
+
+### r/datascience: [Data science even at mature companies can be a mixed bag.](https://www.reddit.com/r/datascience/comments/pu1y72/data_science_even_at_mature_companies_can_be_a/)
+
+> Posted by [u/__compactsupport__](https://www.reddit.com/user/__compactsupport__/)
 >
 > Earned a full time position at a bank in their Financial Crime team preventing traders from manipulating the market. They said they had lots of data (they do) and wanted to incorporate some machine learning into their business. Sweet, I'm in.
 >
@@ -26,7 +58,7 @@ aside:
 >
 > I'm frustrated. Its been 5 months or so, I think that is long enough to say "hey, not a good fit" and maybe find another position. Its a real shame because I worked in a different team at the same bank and they were much more mature with respect to data science.
 
-## r/MachineLearning: [[Discussion] How to present machine learning projects to domain experts without ML background?](https://www.reddit.com/r/MachineLearning/comments/pph0ak/discussion_how_to_present_machine_learning/)
+### r/MachineLearning: [[Discussion] How to present machine learning projects to domain experts without ML background?](https://www.reddit.com/r/MachineLearning/comments/pph0ak/discussion_how_to_present_machine_learning/)
 
 >[Screye](https://www.reddit.com/user/Screye/)
 >
@@ -53,7 +85,7 @@ aside:
 >
 >Hope this helps.
 
-## r/datascience: [Any Data Scientists here working for Microsoft or Amazon?](https://www.reddit.com/r/datascience/comments/pp2htw/any_data_scientists_here_working_for_microsoft_or/)
+### r/datascience: [Any Data Scientists here working for Microsoft or Amazon?](https://www.reddit.com/r/datascience/comments/pp2htw/any_data_scientists_here_working_for_microsoft_or/)
 
 > [leatherarmor](https://www.reddit.com/user/leatherarmor/)
 >
@@ -69,7 +101,6 @@ aside:
 > 8. **How's your work life balance?** So far great, but I'm still new. I think the long term answer is good not great. It's better than a startup, but there are big scary deadlines that you need to meet. FYI being a DS is quite a bit better than being a Data Engineer, because you won't be on call.
 
 ---
-
 
 # Machine Learning Researches
 
