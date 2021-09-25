@@ -2,7 +2,8 @@
 layout: article
 title: ML Watch
 key: page-mlwatch 
-toc: true
+aside:
+    toc: true
 ---
 
 # Reddit/r/\<ML Topics\>
