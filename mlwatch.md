@@ -1,5 +1,4 @@
 ---
-layout: post
 title: ML Watch
 key: page-mlwatch 
 ---
