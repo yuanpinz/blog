@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: article
 title: ML Watch
 key: page-mlwatch 
+header: true
 ---
 
 # Reddit/r/\<ML Topics\>
