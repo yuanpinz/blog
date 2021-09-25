@@ -1,4 +1,5 @@
 ---
+layout: page
 title: ML Watch
 key: page-mlwatch 
 ---
