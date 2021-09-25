@@ -1,3 +1,9 @@
+---
+layout: post
+title: ML Watch
+key: page-mlwatch 
+---
+
 # Reddit/r/\<ML Topics\>
 
 ## r/datascience: [Data science even at mature companies can be a mixed bag.](https://www.reddit.com/r/datascience/comments/pu1y72/data_science_even_at_mature_companies_can_be_a/)
