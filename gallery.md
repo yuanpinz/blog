@@ -28,7 +28,7 @@ key: page-gallery
 
 ## Golden State Warriors
 
-| ![joe-lacob](assets/images/pages/joe-lacob.jpg) | ![steve-kerr](assets/images/pages/steve-kerr.jpg) | ![stephen-curry](assets/images/pages/stephen-curry.jpg) | ![andre-iguodala](assets/images/pages/andre-iguodala.jpg) |
+| ![joe-lacob](assets/images/pages/joe-lacob.jpg "Joe Lacob") | [![steve-kerr](assets/images/pages/steve-kerr.jpg "Steve Kerr")](gsw/steve-kerr.md) | ![stephen-curry](assets/images/pages/stephen-curry.jpg "Stephen Curry") | ![andre-iguodala](assets/images/pages/andre-iguodala.jpg "Andre Iguodala") |
 | ----------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------- | --------------------------------------------------------- |
 |                                                 |                                                   |                                                         |                                                           |
 
