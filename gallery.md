@@ -26,6 +26,12 @@ key: page-gallery
 | [![taxi-driver](https://raw.githubusercontent.com/yuanpinz/blog/main/assets/images/pages/taxi-driver.jpg "Taxi Driver")](https://youtu.be/UUxD4-dEzn0) | [![the-king-of-comedy](https://raw.githubusercontent.com/yuanpinz/blog/main/assets/images/pages/the-king-of-comedy.jpg "The King of Comedy")](https://youtu.be/0wVhCCo02P4) | [![raging-bull](https://raw.githubusercontent.com/yuanpinz/blog/main/assets/images/pages/raging-bull.jpg "Raging Bull")](https://www.youtu.be/yUp6d79WRVI) | [![the-truman-show](https://raw.githubusercontent.com/yuanpinz/blog/main/assets/images/pages/the-truman-show.jpg "The Truman Show")](https://youtu.be/dlnmQbPGuls) |
 | [![little-miss-sunshine](https://raw.githubusercontent.com/yuanpinz/blog/main/assets/images/pages/little-miss-sunshine.jpg "Little Miss Sunshine")](https://youtu.be/bQ7BZTMLImA) | [![ruby-sparks](https://raw.githubusercontent.com/yuanpinz/blog/main/assets/images/pages/ruby-sparks.jpg "Ruby Sparks")](https://youtu.be/xb3_AE-UinY) | [![nomadland](https://raw.githubusercontent.com/yuanpinz/blog/main/assets/images/pages/nomadland.webp "Nomadland")](https://youtu.be/6sxCFZ8_d84) | [![wall-e](https://raw.githubusercontent.com/yuanpinz/blog/main/assets/images/pages/wall-e.jpg "Wall-E")](https://youtu.be/CZ1CATNbXg0) |
 
+## Golden State Warriors
+
+| ![joe-lacob](assets/images/pages/joe-lacob.jpg) | ![steve-kerr](assets/images/pages/steve-kerr.jpg) | ![stephen-curry](assets/images/pages/stephen-curry.jpg) | ![andre-iguodala](assets/images/pages/andre-iguodala.jpg) |
+| ----------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------- | --------------------------------------------------------- |
+|                                                 |                                                   |                                                         |                                                           |
+
 
 
 
