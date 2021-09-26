@@ -1,5 +1,14 @@
-demo
+---
+layout: article
+title: Steve Kerr
+key: gsw-steve-kerr 
+aside:
+    toc: true
+---
 
-steve kerr
+## Talks
 
-![220px-1_steve_kerr_2019_(cropped)](imgs/220px-1_steve_kerr_2019_(cropped).jpg)
+<div>{%- include extensions/youtube.html id='bmGwk0gV9rQ' -%}</div>
+
+<div>{%- include extensions/youtube.html id='U5SP-psqIVM' -%}</div>
+
