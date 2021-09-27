@@ -28,9 +28,9 @@ key: page-gallery
 
 ### TV Series
 
-| ![](imgs/breaking-bad.jpg) | ![](imgs/better-call-saul.webp) | ![](imgs/true-detective.webp) | ![](imgs/the-office.jpg) |
-| -------------------------- | ------------------------------- | ----------------------------- | ------------------------ |
-|                            |                                 |                               |                          |
+| ![](imgs/breaking-bad.jpg) | <img src="imgs/better-call-saul.webp" style="zoom: 50%;" /> | ![](imgs/true-detective.webp) | <img src="imgs/the-office.jpg" style="zoom: 250%;" /> |
+| -------------------------- | ----------------------------------------------------------- | ----------------------------- | ----------------------------------------------------- |
+|                            |                                                             |                               |                                                       |
 
 
 
