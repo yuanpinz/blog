@@ -1,6 +1,3 @@
-# Yuanpinz' Blog
+# Branch Source Readme
 
-[yuanpinz.github.io/blog/](https://yuanpinz.github.io/blog/)
-
-[TeXt Doc](https://tianqi.name/jekyll-TeXt-theme/docs/zh/quick-start)
-
+This branch stores all source material including original posts and any documents for writing the posts.
