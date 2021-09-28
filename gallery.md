@@ -36,6 +36,17 @@ key: page-gallery
 
 ## Golden State Warriors
 
+> I love this team.
+>
+> I love how the owner running this team.
+>
+> I love how Steve Kerr coaching this team.
+>
+> I love the Warriors culture.
+>
+> And of course I love watching Stephen Curry playing basketball!
+>
+
 | ![joe-lacob](assets/images/pages/joe-lacob.jpg "Joe Lacob") | [![steve-kerr](assets/images/pages/steve-kerr.jpg "Steve Kerr")](gsw/steve-kerr.html) | ![stephen-curry](assets/images/pages/stephen-curry.jpg "Stephen Curry") | ![andre-iguodala](assets/images/pages/andre-iguodala.jpg "Andre Iguodala") |
 | ----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |                                                             |                                                              |                                                              |                                                              |
