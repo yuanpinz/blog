@@ -4,7 +4,9 @@ title: Gallery
 key: page-gallery
 ---
 
-## :camera: My flickr
+## My Flickr
+
+> :camera: Selected photos I took. Mostly animals.
 
 [![](https://raw.githubusercontent.com/yuanpinz/blog/main/assets/images/pages/flickr-page.png "My flickr")](https://www.flickr.com/photos/yuanpinz/)
 
@@ -31,8 +33,6 @@ key: page-gallery
 | ![](assets/images/pages/breaking-bad.jpg) | <img src="assets/images/pages/better-call-saul.webp" style="zoom:40%;" /> | ![](assets/images/pages/true-detective.webp) | <img src="assets/images/pages/the-office.jpg" style="zoom:230%;" /> |
 | ----------------------------------------- | ------------------------------------------------------------ | -------------------------------------------- | ------------------------------------------------------------ |
 |                                           |                                                              |                                              |                                                              |
-
-
 
 ## Golden State Warriors
 
