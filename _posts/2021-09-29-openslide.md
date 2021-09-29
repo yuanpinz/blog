@@ -300,4 +300,5 @@ See more detail at the Documentation[^2]
 ## Resources
 
 [^1]: [OpenSlide Official Site](https://openslide.org/)
-[^2 ]: [OpenSlide Python API Documentation](https://openslide.org/api/python/)
+[^2]: [OpenSlide Python API Documentation](https://openslide.org/api/python/)
+
