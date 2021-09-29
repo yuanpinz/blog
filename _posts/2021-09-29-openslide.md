@@ -1,6 +1,6 @@
 ---
 title: OpenSlide Python API Tutorial
-tags: ["openslide", "tutorial"]
+tags: ["openslide"]
 categories: ["programming"]
 key: openslide-python-tutorial
 ---
