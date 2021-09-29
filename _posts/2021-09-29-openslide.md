@@ -7,7 +7,7 @@ key: openslide-python-tutorial
 
 ## Installation
 
-See more details at https://pypi.org/project/openslide-python/
+See more details at <https://pypi.org/project/openslide-python/>
 
 1. [Install OpenSlide](https://openslide.org/download/).
 2. `pip install openslide-python`
