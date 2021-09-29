@@ -47,7 +47,7 @@ key: page-gallery
 > And of course I love watching Stephen Curry playing basketball!
 >
 
-| ![joe-lacob](assets/images/pages/joe-lacob.jpg "Joe Lacob") | [![steve-kerr](assets/images/pages/steve-kerr.jpg "Steve Kerr")](gsw/steve-kerr.html) | ![stephen-curry](assets/images/pages/stephen-curry.jpg "Stephen Curry") | ![andre-iguodala](assets/images/pages/andre-iguodala.jpg "Andre Iguodala") |
+| [![joe-lacob](assets/images/pages/joe-lacob.jpg "Joe Lacob")](gsw/joe-lacob.html) | [![steve-kerr](assets/images/pages/steve-kerr.jpg "Steve Kerr")](gsw/steve-kerr.html) | [![stephen-curry](assets/images/pages/stephen-curry.jpg "Stephen Curry")](gsw/stephen-curry.html) | [![andre-iguodala](assets/images/pages/andre-iguodala.jpg "Andre Iguodala")](gsw/andre-iguodala.html) |
 | ----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |                                                             |                                                              |                                                              |                                                              |
 

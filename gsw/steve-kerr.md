@@ -6,7 +6,15 @@ aside:
     toc: true
 ---
 
+## Season 2021-2022
+
+### Steve Kerr Talks Day One of Training Camp | September 28, 2021
+
+<div>{%- include extensions/youtube.html id='JU3MTxzSpiI' -%}</div>
+
 ## Talks
+
+<div>{%- include extensions/youtube.html id='FjSpvurd4XM' -%}</div>
 
 <div>{%- include extensions/youtube.html id='bmGwk0gV9rQ' -%}</div>
 
