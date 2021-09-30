@@ -25,7 +25,24 @@ CAMELYON16 and CAMELYON17 data sets are open access and shared publicly on **Gig
 
 ## Data Description
 
+### CAMELYON16
 
+>CAMELYON16
+>├── testing
+>│   ├── evaluation
+>│   ├── images
+>│   │   └── 159 files
+>│   ├── lesion_annotations.zip
+>│   └── reference.csv
+>└── training
+>    ├── lesion_annotations.zip
+>    ├── normal
+>    │   ├── 159 files
+>    └── tumor
+>      └──  111 files
+
+
+### CAMELYON17
 
 ## Citation
 
