@@ -104,6 +104,16 @@ aside:
 
 # Machine Learning Researches
 
+## 2021.09.29
+
+### :star:Google AI: [Improving Generalization in Reinforcement Learning using Policy Similarity Embeddings](http://ai.googleblog.com/2021/09/improving-generalization-in.html)
+
+### :star:DeepMind: [Nowcasting the Next Hour of Rain](https://deepmind.com/blog/article/nowcasting)
+
+### Synced: [NYU & UNC Reveal How Transformers’ Learned Representations Change After Fine-Tuning](https://syncedreview.com/2021/09/29/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-114/)
+
+### MarkTechPost: [University of Oxford Researchers Release ‘PASS’ Dataset With 1.4M+ Images (Free From Humans) For Self-Supervised Machine Learning](https://www.marktechpost.com/2021/09/29/university-of-oxford-researchers-release-pass-dataset-with-1-4m-images-free-from-humans-for-self-supervised-machine-learning/)
+
 ## 2021.09.23
 
 ### Synced: [UMass Amherst & Google Improve Few-Shot Learning on NLP Benchmarks via Task Augmentation and Self-Training](https://syncedreview.com/2021/09/23/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-110/)
