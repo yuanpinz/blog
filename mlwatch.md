@@ -104,6 +104,10 @@ aside:
 
 # Machine Learning Researches
 
+## 2021.09.30
+
+### :star:Google AI: ​[Efficient Partitioning of Road Networks](http://ai.googleblog.com/2021/09/efficient-partitioning-of-road-networks.html)
+
 ## 2021.09.29
 
 ### :star:Google AI: [Improving Generalization in Reinforcement Learning using Policy Similarity Embeddings](http://ai.googleblog.com/2021/09/improving-generalization-in.html)
