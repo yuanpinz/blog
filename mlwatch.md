@@ -104,15 +104,21 @@ aside:
 
 # Machine Learning Researches
 
+## 2021-10-08
+
+## :star: Synced: [Apple Study Reveals the Learned Visual Representation Similarities and Dissimilarities Between Self-Supervised and Supervised Methods](https://syncedreview.com/2021/10/08/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-120/)
+
+[[paper]](https://arxiv.org/pdf/2110.00528.pdf)
+
 ## 2021.09.30
 
-### :star:Google AI: ​[Efficient Partitioning of Road Networks](http://ai.googleblog.com/2021/09/efficient-partitioning-of-road-networks.html)
+### :star: Google AI: ​[Efficient Partitioning of Road Networks](http://ai.googleblog.com/2021/09/efficient-partitioning-of-road-networks.html)
 
 ## 2021.09.29
 
-### :star:Google AI: [Improving Generalization in Reinforcement Learning using Policy Similarity Embeddings](http://ai.googleblog.com/2021/09/improving-generalization-in.html)
+### :star: Google AI: [Improving Generalization in Reinforcement Learning using Policy Similarity Embeddings](http://ai.googleblog.com/2021/09/improving-generalization-in.html)
 
-### :star:DeepMind: [Nowcasting the Next Hour of Rain](https://deepmind.com/blog/article/nowcasting)
+### :star: DeepMind: [Nowcasting the Next Hour of Rain](https://deepmind.com/blog/article/nowcasting)
 
 ### Synced: [NYU & UNC Reveal How Transformers’ Learned Representations Change After Fine-Tuning](https://syncedreview.com/2021/09/29/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-114/)
 
