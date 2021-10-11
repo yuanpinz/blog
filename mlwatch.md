@@ -106,9 +106,13 @@ aside:
 
 ## 2021-10-08
 
-## :star: Synced: [Apple Study Reveals the Learned Visual Representation Similarities and Dissimilarities Between Self-Supervised and Supervised Methods](https://syncedreview.com/2021/10/08/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-120/)
+### :star: Synced: [Apple Study Reveals the Learned Visual Representation Similarities and Dissimilarities Between Self-Supervised and Supervised Methods](https://syncedreview.com/2021/10/08/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-120/)
 
 [[paper]](https://arxiv.org/pdf/2110.00528.pdf)
+
+## 2021-10-06
+
+### :star:Synced: [Google Significantly Improves Visual Representations by Adding Explicit Information Compression](https://syncedreview.com/2021/10/06/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-118/)
 
 ## 2021.09.30
 
