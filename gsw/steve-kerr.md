@@ -14,6 +14,12 @@ aside:
 
 ## Talks
 
+### 2021.10.09 After the first pre-season game
+
+<div>{%- include extensions/youtube.html id='8JLvXXMgEfk' -%}</div>
+
+### Other talks
+
 <div>{%- include extensions/youtube.html id='FjSpvurd4XM' -%}</div>
 
 <div>{%- include extensions/youtube.html id='bmGwk0gV9rQ' -%}</div>

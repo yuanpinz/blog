@@ -48,8 +48,8 @@ key: page-gallery
 >
 
 | [![joe-lacob](assets/images/pages/joe-lacob.jpg "Joe Lacob")](gsw/joe-lacob.html) | [![steve-kerr](assets/images/pages/steve-kerr.jpg "Steve Kerr")](gsw/steve-kerr.html) | [![stephen-curry](assets/images/pages/stephen-curry.jpg "Stephen Curry")](gsw/stephen-curry.html) | [![andre-iguodala](assets/images/pages/andre-iguodala.jpg "Andre Iguodala")](gsw/andre-iguodala.html) |
-| ----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-|                                                             |                                                              |                                                              |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![Klay Thompson vs. Jared Dudley (cropped).jpg](assets/images/pages/klay-thompson.jpg) | ![draymond-green](assets/images/pages/draymond-green.jpg)    | ![Shaun Livingston with Warriors (cropped).jpg](assets/images/pages/shaun-livingston.jpg) | ![images](assets/images/pages/jta.jpg)                       |
 
 
 
