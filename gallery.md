@@ -30,9 +30,9 @@ key: page-gallery
 
 ### TV Series
 
-| ![](assets/images/pages/breaking-bad.jpg) | <img src="assets/images/pages/better-call-saul.webp" style="zoom:40%;" /> | ![](assets/images/pages/true-detective.webp) | <img src="assets/images/pages/the-office.jpg" style="zoom:230%;" /> |
-| ----------------------------------------- | ------------------------------------------------------------ | -------------------------------------------- | ------------------------------------------------------------ |
-|                                           |                                                              |                                              |                                                              |
+| ![](assets/images/pages/breaking-bad.jpg)                   | <img src="assets/images/pages/better-call-saul.webp" style="zoom:40%;" /> | ![](assets/images/pages/true-detective.webp) | <img src="assets/images/pages/the-office.jpg" style="zoom:230%;" /> |
+| ----------------------------------------------------------- | ------------------------------------------------------------ | -------------------------------------------- | ------------------------------------------------------------ |
+| ![5ff0643b3ffa7d37b383840f](assets/images/pages/hibana.jpg) |                                                              |                                              |                                                              |
 
 ## Golden State Warriors
 
