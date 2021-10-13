@@ -2,8 +2,7 @@
 layout: article
 title: Conferences
 key: page-conferences
-comments:
-  provider: "disqus"
+comment: false
 ---
 
 
