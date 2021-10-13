@@ -4,7 +4,7 @@ title: About
 key: page-about 
 comment: false
 ---
-<img src="assets/images/pages/me.jpg" alt="me" style="zoom:25%;" />{:.circle.shadow}
+<img src="assets/images/pages/me.jpg" alt="me" style="zoom:25%;" align="left"/>{:.circle.shadow}
 
 I'm a rookie data scientist. This blog is about machine learning, programming and everything else.
 
