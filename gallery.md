@@ -2,6 +2,7 @@
 layout: article
 title: Gallery
 key: page-gallery
+comment: false
 ---
 
 ## My Flickr
