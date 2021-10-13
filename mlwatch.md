@@ -104,6 +104,12 @@ aside:
 
 # Machine Learning Researches
 
+## 2021-10-12
+
+### :star: Synced: [Are Patches All You Need? New Study Proposes Patches Are Behind Vision Transformers’ Strong Performance](https://syncedreview.com/2021/10/12/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-121/)
+
+[[openreview]](https://openreview.net/forum?id=TVHS5Y4dNvM)
+
 ## 2021-10-08
 
 ### :star: Synced: [Apple Study Reveals the Learned Visual Representation Similarities and Dissimilarities Between Self-Supervised and Supervised Methods](https://syncedreview.com/2021/10/08/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-120/)
