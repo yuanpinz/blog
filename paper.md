@@ -60,3 +60,6 @@
 
 [Strongly Supervised Mitosis Detection In Breast **Histopathology** Images Using Weak Labels](https://ieeexplore.ieee.org/abstract/document/9433810/)
 
+# Breast Density
+
+Gastounioti, Aimilia, et al. "Fully automated volumetric breast density estimation from digital breast tomosynthesis." *Radiology* (2021): 210190. [[paper]](https://pubs.rsna.org/doi/pdf/10.1148/radiol.2021210190)

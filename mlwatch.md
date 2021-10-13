@@ -110,6 +110,8 @@ aside:
 
 [[openreview]](https://openreview.net/forum?id=TVHS5Y4dNvM)
 
+### :star:Synced: [NVIDIA AI Releases StyleGAN3: Alias-Free Generative Adversarial Networks](https://www.marktechpost.com/2021/10/12/nvidia-ai-releases-stylegan3-alias-free-generative-adversarial-networks/)
+
 ## 2021-10-08
 
 ### :star: Synced: [Apple Study Reveals the Learned Visual Representation Similarities and Dissimilarities Between Self-Supervised and Supervised Methods](https://syncedreview.com/2021/10/08/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-120/)
