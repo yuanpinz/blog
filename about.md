@@ -3,6 +3,8 @@ layout: article
 title: About
 key: page-about 
 ---
+![me](assets/images/pages/me.jpg){:.circle.shadow}
+
 I'm a rookie data scientist. This blog is about machine learning, programming and everything else.
 
 ### My Current Research Interest
