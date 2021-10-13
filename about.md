@@ -7,7 +7,6 @@ comment: false
 
 # About Me
 
-I'm a rookie data scientist. 
-
-This blog is about machine learning, programming and everything else.
+My name is Yuanpin Zhou. I'm a rookie data scientist. I like reading and watching movies besides doing research. My favorite NBA team is the Golden State Warriors. I enjoy Joe Lacob's vision, Steve Kerr's leadership, the selfless and joyful culture, and their beautiful basketball movement.
+This blog is about machine learning, programming, and everything else.
 
