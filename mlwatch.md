@@ -8,6 +8,14 @@ aside:
 
 # Machine Learning Researches
 
+## 2021-10-13
+
+### Google AI: [Self-Supervised Learning Advances Medical Image Classification](http://ai.googleblog.com/2021/10/self-supervised-learning-advances.html)
+
+### Synced: [ICCV 2021 Best Papers Announced](https://syncedreview.com/2021/10/13/iccv-2021-best-papers-announced/)
+
+[[Swin Transformer]](https://arxiv.org/pdf/2103.14030.pdf) [[Mip-NeRF]](https://arxiv.org/pdf/2103.13415.pdf) [[OpenGAN]](https://arxiv.org/pdf/2104.02939.pdf) [[Viewing Graph Solvability]](https://openaccess.thecvf.com/content/ICCV2021/papers/Arrigoni_Viewing_Graph_Solvability_via_Cycle_Consistency_ICCV_2021_paper.pdf) [[Common Objects in 3D]](https://arxiv.org/pdf/2109.00512.pdf) [[Pixel-Perfect Structure-from-Motion]](https://arxiv.org/pdf/2108.08291.pdf)
+
 ## 2021-10-12
 
 ### :star: Synced: [Are Patches All You Need? New Study Proposes Patches Are Behind Vision Transformers’ Strong Performance](https://syncedreview.com/2021/10/12/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-121/)
@@ -173,6 +181,26 @@ MLOps’ most important task: Ensure consistently high-quality data in all phase
 ---
 
 # Reddit/r/\<ML Topics\>
+
+### r/datascience: [Who has left data science and analytics? What are you up to now?](https://www.reddit.com/r/datascience/comments/q75ce8/who_has_left_data_science_and_analytics_what_are/)
+
+> Posted by [u/jehan_gonzales](https://www.reddit.com/user/jehan_gonzales/)
+>
+> I moved on from analytics two years ago and became a product manager.
+>
+> I was a data analyst for four years.
+>
+> 1. Almost two years in market research with survey data building statistical models (mainly linear and logistic regression) in SPSS and Excel (with a bit of R here and there)
+> 2. Nine months managing a SQL database where I was meant to be analysing the data but was mainly debugging a very bad production environment
+> 3. 1.5 years as a data analyst in product analytics where I worked with retail sales and loyalty program data. I spent the first year doing data governance stuff with the client but later moved into an ML team and tried to figure out insights for end users without them having to search for them.
+>
+> Since becoming a product manager, I can still work with data and do the interesting analysis but then I spend most of my time using the numbers to drive decisions and if there is anything that requires long, time consuming ETL tasks, I can farm them out.
+>
+> So far, it's been a great move as I've always been more interested in decision science rather than writing code for the sake of it (I enjoy it in moderation but find more meaning using analysis to get shit done).
+>
+> I was wondering, have any of you moved out of analytics and data science? What prompted the move? Or are you thinking about changing industries?
+>
+> Always interesting to hear from other people at the coalface.
 
 ### r/datascience: [Advice to all job seekers: be as critical to the company as they are to you](https://www.reddit.com/r/datascience/comments/puh45x/advice_to_all_job_seekers_be_as_critical_to_the/)
 
