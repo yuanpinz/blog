@@ -8,6 +8,12 @@ aside:
 
 # Machine Learning Researches
 
+## 2021-10-14
+
+### :star:Google AI: [Baselines for Uncertainty and Robustness in Deep Learning](http://ai.googleblog.com/2021/10/baselines-for-uncertainty-and.html)
+
+### :star:Synced: [Google Researchers Explore the Limits of Large-Scale Model Pretraining](https://syncedreview.com/2021/10/14/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-123/)
+
 ## 2021-10-13
 
 ### Google AI: [Self-Supervised Learning Advances Medical Image Classification](http://ai.googleblog.com/2021/10/self-supervised-learning-advances.html)
@@ -181,6 +187,46 @@ MLOps’ most important task: Ensure consistently high-quality data in all phase
 ---
 
 # Reddit/r/\<ML Topics\>
+
+### r/MachineLearning: [[D] What are some ideas that are hyped up in machine learning research but don't actually get used in industry (and vice versa)?](https://www.reddit.com/r/MachineLearning/comments/q86kqn/d_what_are_some_ideas_that_are_hyped_up_in/)
+
+> [IntelArtiGen](https://www.reddit.com/user/IntelArtiGen/)
+>
+> **Cool in industry but not cool in research:** Cleaning datasets, going from dev to prod (and all the research to improve these processes)
+>
+> **Cool in research but not cool in industry:** Adversarial attacks
+>
+> just my opinion
+>
+> > [du_dt](https://www.reddit.com/user/du_dt/)
+> >
+> > About adversarial attacks in production: company wanted to insert adversarial noise in car sale ads posted on their site in order to break their competitors data scraping model (competitors just copied data from the original site). I think that’s awesome!
+> >
+> > The original article is in Russian, but the images are quite illustrative, try google translate
+> >
+> > https://habr.com/ru/company/avito/blog/452142/
+> >
+> > UPD: noise was inserted in photos, competitors tried to replace the watermark with theirs
+
+### r/datascience: [Putting ML models in production](https://www.reddit.com/r/datascience/comments/q7zuxn/putting_ml_models_in_production/)
+
+> [proverbialbunny](https://www.reddit.com/user/proverbialbunny/)
+>
+> The topic is complex, which is why there are multiple job roles that specialize in production and deployment. Some of them are Data Engineer, Infrastructure Software Engineer, and ML Engineer.
+>
+> How to productionize and deploy depends on what the model is doing and how it needs to get its data. On the input side there is batch, micro-batch, streaming, and REST. On the output side there is outputting to a DB, returning a REST request, creating a dashboard, and creating a report.
+>
+> All of these have different requirements. Furthermore, training and testing on your local machine may not be big data, but say the company grows to have enough customers it becomes big data in prod. Suddenly you realize you should have been using different tools the entire time.
+>
+> There are different services that aid the functionality of productionization and deployment. All of them have their strengths and weaknesses. I like to think of them as a spectrum between how much they handle the low level data engineering work for you to how bare metal they are. The ones that make life easiest may lack functionality you need, or may cost the most. The ones that are the most bare metal you can do anything and everything in but you have to setup an entire ecosystem of servers and pipes to get it all done becoming a full time job. Also, you need someone on call if a server goes down or breaks. This is why you want at least one Data Engineer, ML Engineer, Infrastructure Engineer, DevOps, or MLOps for the extreme situations where the server is on fire and someone who appropriately needs to handle that situation to minimize downtime.
+>
+> On the easiest to use side is Domino's Data Labs. It supports everything except dynamic scaling of Spark clusters on a heavy load, so if you're very big data it may not support it.
+>
+> On the next easiest but more powerful is Databricks. Already you're looking at a product designed to be learned before used. Databricks uses Spark, so it's designed for big data but is not necessary.
+>
+> Next easiest is the competition, like AWS Sagemaker. Out of the box the default functionality is more limited on these kinds of offerings unless you expand to using their entire ecosystem. How do you know what to parts of their ecosystem to choose that is right for you? Study alone typically doesn't do it by this point, you have to talk to an AWS rep, possibly multiple, and they will try to help you out.
+>
+> At the bottom is straight bare metal. Spin up your own servers in the cloud, install the necessary parts, and set it up yourself. The upside is this at first seems less complex. The downside is you're not forced to use best practices which will cause a lot of headaches down the road. You'll have a lot of limited functionality you didn't know could exist if you didn't use one of the offerings above that bundle tools together for you.
 
 ### r/datascience: [Who has left data science and analytics? What are you up to now?](https://www.reddit.com/r/datascience/comments/q75ce8/who_has_left_data_science_and_analytics_what_are/)
 
