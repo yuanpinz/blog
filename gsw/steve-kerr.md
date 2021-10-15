@@ -20,6 +20,8 @@ aside:
 
 ### Other talks
 
+<div>{%- include extensions/youtube.html id='ZhSD--OaoWo' -%}</div>
+
 <div>{%- include extensions/youtube.html id='FjSpvurd4XM' -%}</div>
 
 <div>{%- include extensions/youtube.html id='bmGwk0gV9rQ' -%}</div>
