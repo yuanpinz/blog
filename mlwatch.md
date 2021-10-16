@@ -8,6 +8,12 @@ aside:
 
 # Machine Learning Researches
 
+## 2021-10-15
+
+### Google AI: [SimVLM: Simple Visual Language Model Pre-training with Weak Supervision](http://ai.googleblog.com/2021/10/simvlm-simple-visual-language-model-pre.html)
+
+### Synced: [Google Proposes ARDMs: Efficient Autoregressive Models That Learn to Generate in any Order](https://syncedreview.com/2021/10/15/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-124/)
+
 ## 2021-10-14
 
 ### :star:Google AI: [Baselines for Uncertainty and Robustness in Deep Learning](http://ai.googleblog.com/2021/10/baselines-for-uncertainty-and.html)
