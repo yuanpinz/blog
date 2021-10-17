@@ -8,6 +8,10 @@ aside:
 
 # Machine Learning Researches
 
+## 2021-10-16
+
+### MARKTECHPOST: [Researchers at ETH Zurich & Microsoft Introduce ‘PixLoc’: A Neural Network For Feature Alignment With A 3D Model Of The Environment](https://www.marktechpost.com/2021/10/16/researchers-at-eth-zurich-microsoft-introduce-pixloc-a-neural-network-for-feature-alignment-with-a-3d-model-of-the-environment/)
+
 ## 2021-10-15
 
 ### Google AI: [SimVLM: Simple Visual Language Model Pre-training with Weak Supervision](http://ai.googleblog.com/2021/10/simvlm-simple-visual-language-model-pre.html)
@@ -34,7 +38,7 @@ aside:
 
 [[openreview]](https://openreview.net/forum?id=TVHS5Y4dNvM)
 
-### :star:Synced: [NVIDIA AI Releases StyleGAN3: Alias-Free Generative Adversarial Networks](https://www.marktechpost.com/2021/10/12/nvidia-ai-releases-stylegan3-alias-free-generative-adversarial-networks/)
+### :star:MARKTECHPOST: [NVIDIA AI Releases StyleGAN3: Alias-Free Generative Adversarial Networks](https://www.marktechpost.com/2021/10/12/nvidia-ai-releases-stylegan3-alias-free-generative-adversarial-networks/)
 
 ## 2021-10-08
 
@@ -58,7 +62,7 @@ aside:
 
 ### Synced: [NYU & UNC Reveal How Transformers’ Learned Representations Change After Fine-Tuning](https://syncedreview.com/2021/09/29/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-114/)
 
-### MarkTechPost: [University of Oxford Researchers Release ‘PASS’ Dataset With 1.4M+ Images (Free From Humans) For Self-Supervised Machine Learning](https://www.marktechpost.com/2021/09/29/university-of-oxford-researchers-release-pass-dataset-with-1-4m-images-free-from-humans-for-self-supervised-machine-learning/)
+### MARKTECHPOST: [University of Oxford Researchers Release ‘PASS’ Dataset With 1.4M+ Images (Free From Humans) For Self-Supervised Machine Learning](https://www.marktechpost.com/2021/09/29/university-of-oxford-researchers-release-pass-dataset-with-1-4m-images-free-from-humans-for-self-supervised-machine-learning/)
 
 ## 2021.09.23
 
@@ -104,7 +108,7 @@ aside:
 
 **Comment**: Too much terminology that I don‘t understand. Mark and read it later.
 
-### Marktechpost: [Israeli Researchers Unveil DeepSIM, a Neural Generative Model for Conditional Image Manipulation Based on a Single Image](https://www.marktechpost.com/2021/09/16/israeli-researchers-unveil-deepsim-a-neural-generative-model-for-conditional-image-manipulation-based-on-a-single-image/)
+### MARKTECHPOST: [Israeli Researchers Unveil DeepSIM, a Neural Generative Model for Conditional Image Manipulation Based on a Single Image](https://www.marktechpost.com/2021/09/16/israeli-researchers-unveil-deepsim-a-neural-generative-model-for-conditional-image-manipulation-based-on-a-single-image/)
 
 [[project page]](http://www.vision.huji.ac.il/deepsim/) [[paper]](https://arxiv.org/pdf/2109.06151.pdf) [[code]](https://github.com/eliahuhorwitz/DeepSIM)
 
