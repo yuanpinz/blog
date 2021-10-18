@@ -198,6 +198,41 @@ MLOps’ most important task: Ensure consistently high-quality data in all phase
 
 # Reddit/r/\<ML Topics\>
 
+### r/MachineLearning: [[D] Has the ResNet Hypothesis been debunked?](https://www.reddit.com/r/MachineLearning/comments/px3hzd/d_has_the_resnet_hypothesis_been_debunked/)
+
+> Posted by
+>
+> [u/Ok_Slice4231](https://www.reddit.com/user/Ok_Slice4231/)
+>
+> The **ResNet architecture** was invented to solve the *degradation problem* that has been empirically seen in Very Deep Neural Networks i.e. “34-layer plain net has higher training error throughout the whole training procedure, even though the solution space of the 18-layer plain network is a subspace of that of the 34-layer one.“
+>
+> [![r/MachineLearning - [D\] Has the ResNet Hypothesis been debunked?](https://preview.redd.it/7todt74s18q71.png?width=1314&format=png&auto=webp&s=0a1af475ef27fd8355d1527223e74556c6a993e9)](https://preview.redd.it/7todt74s18q71.png?width=1314&format=png&auto=webp&s=0a1af475ef27fd8355d1527223e74556c6a993e9)
+>
+> The natural presumption is that this problem is caused by the **Vanishing Gradient Problem** which has been observed in Recurrent Neural Networks and, to a lesser extent, in Long-Short Term Memory Networks. But the authors of the paper argue that this is, *most likely,* not the case:
+>
+> > We argue that this optimization difficulty is unlikely to be caused by vanishing gradients. These plain networks are trained with BN [16], which ensures forward propagated signals to have non-zero variances. We also verify that the backward propagated gradients exhibit healthy norms with BN. So neither forward nor backward signals vanish. In fact, the 34-layer plain net is still able to achieve compet- itive accuracy (Table 3), suggesting that the solver works to some extent. We conjecture that the deep plain nets may have exponentially low convergence rates, which impact the reducing of the training error3. The reason for such optimization difficulties will be studied in the future.
+>
+> I will refer to this as the **“ResNet Hypothesis”**.
+>
+> Many recent papers and tutorials appear to be *assuming* that the ResNet Hypothesis is **false.** I have read numerous papers in which the authors add skip connections in order to *“improve gradient flow”* and they cite the original ResNet paper to support this claim. While it is quite plausible that adding skip connections will improve gradient flow, what caused the degradation problem in the **first place**? The idea that skip connections solve the degradation problem by improving gradient flow seems to be in *clear contradiction* with the ResNet Hypothesis; so where did this idea come from? ***Has the ResNet Hypothesis been*** ~~***debunked***~~ ***falsified******?***
+>
+> Edit 1 - I think this is an accurate representation of the average DL researcher’s (myself included) understanding of why ResNets work [based on [u/impossiblefork](https://www.reddit.com/u/impossiblefork/)’s [answer](https://www.reddit.com/r/MachineLearning/comments/px3hzd/comment/hekymwd/?utm_source=share&utm_medium=web2x&context=3)]:
+>
+> [![r/MachineLearning - [D\] Has the ResNet Hypothesis been debunked?](https://preview.redd.it/wbvvkwlrd8q71.png?width=724&format=png&auto=webp&s=7b3cac7d8baea007d9dd379ce67020a5a65e2c9b)](https://preview.redd.it/wbvvkwlrd8q71.png?width=724&format=png&auto=webp&s=7b3cac7d8baea007d9dd379ce67020a5a65e2c9b)
+>
+> Edit 2 - Apologies for using the word ”debunked” in the original post. Quite irresponsible of me in hindsight. Thanks to [/u/ComplexColor](https://www.reddit.com/u/ComplexColor/) for [pointing it out](https://www.reddit.com/r/MachineLearning/comments/px3hzd/comment/hemcuq0/?utm_source=share&utm_medium=web2x&context=3). Unfortunately I am unable to edit the title.
+>
+> > [BeatLeJuce](https://www.reddit.com/user/BeatLeJuce/)
+> >
+> > Shortcut connections improve the loss landscape; they make optimization much easier. There is a lot of research to back this up, but the two main papers that come to mind are
+> >
+> > - [The Shattered Gradients Problem: If resnets are the answer, then what is the question? (ICML 2017)](https://arxiv.org/abs/1702.08591) shows that ResNets have much more stable gradients.
+> > - [Visualizing the Loss Landscape of Neural Nets (NeurIPS 2018)](https://proceedings.neurips.cc/paper/2018/hash/a41b3bb3e6b050b6c9067c67f663b915-Abstract.html) again shows that ResNets have a smoother loss surface (Figure 1 in that paper is the 1-picture-answer of your question).
+> >
+> > You don't *need* shortcuts to learn effective representations, but optimization will be harder. For example, [Fixup Initialization: Residual Learning Without Normalization (ICLR 2019)](https://arxiv.org/abs/1901.09321) shows that if you are careful about initialization, you can train ResNets without shortcuts to good results. [RepVGG: Making VGG-style ConvNets Great Again (CVPR 2021) ](https://arxiv.org/abs/2101.03697)shows that you can remove shortcuts *after training* and still have a good network.
+> >
+> > This is, BTW, still somewhat in line with the original idea of ResNet: You initialize each block as an identity function, so initially it almost appears as if the parameters aren't actually there / aren't doing anything. And then you gradually move away and have the effect of the block come into play.
+
 ### r/MachineLearning: [[D] What are some ideas that are hyped up in machine learning research but don't actually get used in industry (and vice versa)?](https://www.reddit.com/r/MachineLearning/comments/q86kqn/d_what_are_some_ideas_that_are_hyped_up_in/)
 
 > [IntelArtiGen](https://www.reddit.com/user/IntelArtiGen/)
