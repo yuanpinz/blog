@@ -4,7 +4,7 @@ tags: ["paper reading", "inpainting", "fast fourier convolution"]
 key: lama-inpainting
 ---
 
-This paper[^lama]
+This paper[^lama] proposed a method for high-resolution images inpainting with large missing areas. The results look great! Three contributions were claimed but I find the **fast Fourier Convolutions (FFC)** to be most essential. 
 
 <!--more-->
 
