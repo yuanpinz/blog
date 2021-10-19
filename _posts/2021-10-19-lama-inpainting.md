@@ -36,13 +36,13 @@ This paper[^lama] proposed a method for high-resolution images inpainting with l
 
 ### Loss Functions
 
-Final loss: $\mathcal{L}_{final}=\kappa L_{Adv}+\alpha \mathcal{L}_{HRFRL} + \beta \mathcal{L}_{DiscPL} + \gamma R_1$$​​​
+Final loss: $\mathcal{L}_{final}=\kappa L_{Adv}+\alpha \mathcal{L}_{HRFRL} + \beta \mathcal{L}_{DiscPL} + \gamma R_1$​​​​
 
 - $L_{Adv}$: **Adversarial loss**
 
 - $\mathcal{L}_{HRFRL}$: High receptive field perceptual loss
 
-  $\mathcal{L}_{HRFRL}(x,\hat{x})=\mathcal{M}([\phi_{HRF}(x)-\phi_{HRF}(\hat{x})]^2)$​,​
+  $\mathcal{L}_{HRFRL}(x,\hat{x})=\mathcal{M}([\phi_{HRF}(x)-\phi_{HRF}(\hat{x})]^2)$​​ ,​
 
   where $\phi_{HRF}$ is a pre-trained network, $\mathcal{M}$ is the sequential two-stage mean operation (interlayer mean of intra-layer means).
 
