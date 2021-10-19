@@ -8,6 +8,21 @@ aside:
 
 # Machine Learning Researches
 
+## 2021-10-18
+
+### Google AI: [How Underspecification Presents Challenges for Machine Learning](http://ai.googleblog.com/2021/10/how-underspecification-presents.html)
+
+[[paper]](https://arxiv.org/pdf/2011.03395.pdf)
+
+**keywords**: underspecification
+
+**Summary**:
+
+- **underspecification**: a key failure mode especially prevalent in modern ML systems
+- Identifying Underspecification in Real Applications
+  - Underspecification in Computer Vision
+  - Underspecification in Other Applications
+
 ## 2021-10-16
 
 ### MARKTECHPOST: [Researchers at ETH Zurich & Microsoft Introduce ‘PixLoc’: A Neural Network For Feature Alignment With A 3D Model Of The Environment](https://www.marktechpost.com/2021/10/16/researchers-at-eth-zurich-microsoft-introduce-pixloc-a-neural-network-for-feature-alignment-with-a-3d-model-of-the-environment/)
