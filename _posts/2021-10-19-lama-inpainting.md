@@ -36,7 +36,7 @@ This paper[^lama] proposed a method for high-resolution images inpainting with l
 
 ### Loss Functions
 
-Final loss: $\mathcal{L}_{final}=\kappa L_{Adv}+\alpha \mathcal{L}_{HRFRL} + \beta \mathcal{L}_{DiscPL} + \gamma R_1$
+Final loss: $$\mathcal{L}_{final}=\kappa L_{Adv}+\alpha \mathcal{L}_{HRFRL} + \beta \mathcal{L}_{DiscPL} + \gamma R_1$$
 
 - $L_{Adv}$: **Adversarial loss**
 
@@ -79,10 +79,3 @@ Final loss: $\mathcal{L}_{final}=\kappa L_{Adv}+\alpha \mathcal{L}_{HRFRL} + \be
 
 [^r1]: [Wang, Ting-Chun, et al. "High-resolution image synthesis and semantic manipulation with conditional gans." *Proceedings of the IEEE conference on computer vision and pattern recognition*. 2018.](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_High-Resolution_Image_Synthesis_CVPR_2018_paper.pdf)
 [^dpl]: [Mescheder, Lars, Andreas Geiger, and Sebastian Nowozin. "Which training methods for GANs do actually converge?." *International conference on machine learning*. PMLR, 2018.](http://proceedings.mlr.press/v80/mescheder18a/mescheder18a.pdf)
-
-
-
-
-
-![](https://raw.githubusercontent.com/yuanpinz/blog/main/assets/images/posts/image.png)
-
