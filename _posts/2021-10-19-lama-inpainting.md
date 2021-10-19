@@ -4,7 +4,7 @@ tags: ["paper reading", "inpainting", "fast fourier convolution"]
 key: lama-inpainting
 ---
 
-This paper[^lama] proposed a method for high-resolution images inpainting with large missing areas. The results look great! Three contributions were claimed but I find the **fast Fourier Convolutions (FFC)** to be most essential. 
+This paper[^lama] proposed a method for high-resolution images inpainting with large missing areas. The authors suggested the challenge of the task is the lack of large receptive fields of conventional convolution neural networks. Three contributions were claimed but I find the **fast Fourier Convolutions (FFC)**[^ffc] to be the most essential component, which was claimed by this paper that it allows for the image-wide receptive field that covers an entire image. The experiment results were very good. It's funny that the FFC paper came out in 2020 but with only a few citations.
 
 <!--more-->
 
@@ -40,7 +40,7 @@ Final loss: $$\mathcal{L}_{final}=\kappa L_{Adv}+\alpha \mathcal{L}_{HRFRL} + \b
 
 - $L_{Adv}$: **Adversarial loss**
 
-- $\mathcal{L}_{HRFRL}$: High receptive field perceptual loss
+- $\mathcal{L}_{HRFRL}$: **High receptive field perceptual loss**
 
   $$\mathcal{L}_{HRFRL}(x,\hat{x})=\mathcal{M}([\phi_{HRF}(x)-\phi_{HRF}(\hat{x})]^2)$$,
 
