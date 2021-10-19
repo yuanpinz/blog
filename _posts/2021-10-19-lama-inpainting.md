@@ -42,13 +42,13 @@ Final loss: $$\mathcal{L}_{final}=\kappa L_{Adv}+\alpha \mathcal{L}_{HRFRL} + \b
 
 - $\mathcal{L}_{HRFRL}$: High receptive field perceptual loss
 
-  $\mathcal{L}_{HRFRL}(x,\hat{x})=\mathcal{M}([\phi_{HRF}(x)-\phi_{HRF}(\hat{x})]^2)$ ,
+  $$\mathcal{L}_{HRFRL}(x,\hat{x})=\mathcal{M}([\phi_{HRF}(x)-\phi_{HRF}(\hat{x})]^2)$$,
 
   where $\phi_{HRF}$ is a pre-trained network, $\mathcal{M}$ is the sequential two-stage mean operation (interlayer mean of intra-layer means).
 
 - $\mathcal{L}_{DiscPL}$: **discriminator-based perceptual loss** (or feature matching loss)[^dpl]
 
-- $R_1$: **Gradient penalty**​[^r1]
+- $R_1$: **Gradient penalty**[^r1]
 
 ### Generation of Masks
 
@@ -71,8 +71,6 @@ Final loss: $$\mathcal{L}_{final}=\kappa L_{Adv}+\alpha \mathcal{L}_{HRFRL} + \b
 ### Ablation Study on Masks
 
 ![image-20211019174446320](https://raw.githubusercontent.com/yuanpinz/blog/main/assets/images/posts/image-20211019174446320.png)
-
-
 
 [^lama]: [Suvorov, Roman, et al. "Resolution-robust Large Mask Inpainting with Fourier Convolutions." *arXiv preprint arXiv:2109.07161* (2021).](https://arxiv.org/pdf/2109.07161.pdf)
 [^ffc]: [Chi, Lu, Borui Jiang, and Yadong Mu. "Fast fourier convolution." *Advances in Neural Information Processing Systems* 33 (2020).](https://proceedings.neurips.cc/paper/2020/file/2fd5d41ec6cfab47e32164d5624269b1-Paper.pdf)
