@@ -8,6 +8,10 @@ aside:
 
 # Machine Learning Researches
 
+## 2021-10-19
+
+### :star:Synced: [StyleNeRF: A 3D-Aware Generator for High-Resolution Image Synthesis with Explicit Style Control](https://syncedreview.com/2021/10/19/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-126/)
+
 ## 2021-10-18
 
 ### Google AI: [How Underspecification Presents Challenges for Machine Learning](http://ai.googleblog.com/2021/10/how-underspecification-presents.html)
