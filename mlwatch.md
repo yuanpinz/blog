@@ -8,9 +8,17 @@ aside:
 
 # Machine Learning Researches
 
+## 2021-10-20
+
+### Google AI: [Predicting Spreadsheet Formulas from Semi-structured Contexts](http://ai.googleblog.com/2021/10/predicting-spreadsheet-formulas-from.html)
+
+### Synced: [Yann LeCun Team Challenges Current Beliefs on Interpolation and Extrapolation Regarding DL Model Generalization Performance](https://syncedreview.com/2021/10/20/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-127/)
+
 ## 2021-10-19
 
 ### :star:Synced: [StyleNeRF: A 3D-Aware Generator for High-Resolution Image Synthesis with Explicit Style Control](https://syncedreview.com/2021/10/19/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-126/)
+
+### MARKTECHPOST: [FlyingSquid: A Python Framework For Interactive Weak Supervision](https://www.marktechpost.com/2021/10/19/flyingsquid-a-python-framework-for-interactive-weak-supervision/)
 
 ## 2021-10-18
 
@@ -216,6 +224,18 @@ MLOps’ most important task: Ensure consistently high-quality data in all phase
 ---
 
 # Reddit/r/\<ML Topics\>
+
+### r/datascience: [Interviewing Red Flag Terms](https://www.reddit.com/r/datascience/comments/qc6nok/interviewing_red_flag_terms/)
+
+> Posted by [Job Search](https://www.reddit.com/r/datascience/search?q=flair_name%3A"Job Search"&restrict_sr=1)
+>
+> Phrases that interviewers use that are red flags.
+>
+> So far I’ve noticed:
+>
+> 1. Our team is like the Navy Seals in within the company
+> 2. work hard play hard
+> 3. (me asking does your team work nights and weekends): We choose to because we are passionate about the work
 
 ### r/MachineLearning: [[D] Has the ResNet Hypothesis been debunked?](https://www.reddit.com/r/MachineLearning/comments/px3hzd/d_has_the_resnet_hypothesis_been_debunked/)
 
