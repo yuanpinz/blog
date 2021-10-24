@@ -5,8 +5,8 @@ header:
   - title: Gallery
     url: /gallery.html
     
-  - title: Conferences
-    url: /conferences.html
+  # - title: Conferences
+  #   url: /conferences.html
 
   - titles:
       # @start locale config
