@@ -8,6 +8,14 @@ aside:
 
 # Machine Learning Researches
 
+## 2021-10-24
+
+### MARKTECHPOST: [CMU AI Researchers Present A New Study To Achieve Fairness and Accuracy in Machine Learning Systems For Public Policy](https://www.marktechpost.com/2021/10/24/cmu-ai-researchers-present-a-new-study-to-achieve-fairness-and-accuracy-in-machine-learning-systems-for-public-policy/)
+
+## 2021-10-21
+
+### MARKTECHPOST: [AI Researchers From Huawei and Shanghai Jiao Tong University Introduce ‘CIPS-3D’: A 3D-Aware Generator of GANs](https://www.marktechpost.com/2021/10/21/ai-researchers-from-huawei-and-shanghai-jiao-tong-university-introduce-cips-3d-a-3d-aware-generator-of-gans/)
+
 ## 2021-10-20
 
 ### Google AI: [Predicting Spreadsheet Formulas from Semi-structured Contexts](http://ai.googleblog.com/2021/10/predicting-spreadsheet-formulas-from.html)
@@ -224,6 +232,25 @@ MLOps’ most important task: Ensure consistently high-quality data in all phase
 ---
 
 # Reddit/r/\<ML Topics\>
+
+### r/MachineLearning: [[D] How would you deploy an optimization type model? ex: CLIP+VQGAN](https://www.reddit.com/r/MachineLearning/comments/qckgsj/d_how_would_you_deploy_an_optimization_type_model/)
+
+> [Mefaso](https://www.reddit.com/user/Mefaso/)·[22h](https://www.reddit.com/r/MachineLearning/comments/qckgsj/comment/hhgr3oj/?utm_source=reddit&utm_medium=web2x&context=3)
+>
+> I actually spent other a month back in February setting something like that up.
+>
+> It's definitely doable, but for me the biggest issue was too slow startup times in EC2 instance for scaling.
+>
+> After a lot of optimization it would still take 4 minutes from requesting an instance to generation starting, which was too long to be practical for me
+>
+> > [gramhagen](https://www.reddit.com/user/gramhagen/)·[16h](https://www.reddit.com/r/MachineLearning/comments/qckgsj/comment/hhhhuf6/?utm_source=reddit&utm_medium=web2x&context=3)
+> >
+> > These are not scalable examples but I spent the last week hacking on two prototypes for hosting vqgan+clip which might be helpful
+> >
+> > 1. https://github.com/gramhagen/imagen - a unity application that hits a back-end server hosting vqgan+clip model
+> > 2. [https://github.com/gramhagen/image](https://github.com/gramhagen/imagen) - a streamlit application for interacting with a vqgan+clip model
+> >
+> > Thoughts for how you might scale this would be to serve this model using something like [Ray Serve](https://docs.ray.io/en/latest/serve/index.html) on a cluster of workers with GPUs. you still need to handle asychronous requests though because the inference time is going to be too long unless you have a really small image and limited iterations. The hacky way I did it was just respond to the initial request with an id, and then have a second endpoint that retrieves images once they are ready.
 
 ### r/datascience: [Interviewing Red Flag Terms](https://www.reddit.com/r/datascience/comments/qc6nok/interviewing_red_flag_terms/)
 
