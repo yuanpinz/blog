@@ -8,6 +8,22 @@ aside:
 
 # Machine Learning Researches
 
+## 2021-10-25
+
+### :star:Google AI: [Deciding Which Tasks Should Train Together in Multi-Task Neural Networks](http://ai.googleblog.com/2021/10/deciding-which-tasks-should-train.html)
+
+[[paper]](https://arxiv.org/pdf/2109.04617.pdf)
+
+**Keywords**: Multi-task learning, meta-learning
+
+**Summary**:
+
+![img](assets/images/pages/tag-mtl.gif)
+
+### Synced: [Facebook AI Releases SaLinA: A Flexible and Simple Library for Learning Sequential Agents](https://syncedreview.com/2021/10/25/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-130/)
+
+### MARKTECHPOST: [Hugging Face Introduces “T0”, An Encoder-Decoder Model That Consumes Textual Inputs And Produces Target Responses](https://www.marktechpost.com/2021/10/25/hugging-face-introduces-t0-an-encoder-decoder-model-that-consumes-textual-inputs-and-produces-target-responses/)
+
 ## 2021-10-24
 
 ### MARKTECHPOST: [CMU AI Researchers Present A New Study To Achieve Fairness and Accuracy in Machine Learning Systems For Public Policy](https://www.marktechpost.com/2021/10/24/cmu-ai-researchers-present-a-new-study-to-achieve-fairness-and-accuracy-in-machine-learning-systems-for-public-policy/)
