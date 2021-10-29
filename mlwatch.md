@@ -8,6 +8,10 @@ aside:
 
 # Machine Learning Researches
 
+## 2021-10-28
+
+### MARKTECHPOST: [Researchers Introduce ‘AugMax’: An Open-Sourced Data Augmentation Framework To Unify The Two Aspects Of Diversity And Hardness](https://www.marktechpost.com/2021/10/28/researchers-introduce-augmax-an-open-sourced-data-augmentation-framework-to-unify-the-two-aspects-of-diversity-and-hardness/)
+
 ## 2021-10-25
 
 ### :star:Google AI: [Deciding Which Tasks Should Train Together in Multi-Task Neural Networks](http://ai.googleblog.com/2021/10/deciding-which-tasks-should-train.html)
