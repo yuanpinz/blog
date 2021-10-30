@@ -8,6 +8,10 @@ aside:
 
 # Machine Learning Researches
 
+## 2021-10-29
+
+### Synced: [DeepMind Study Resolves Delusions in Sequence Models for Interaction and Control](https://syncedreview.com/2021/10/29/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-134/)
+
 ## 2021-10-28
 
 ### MARKTECHPOST: [Researchers Introduce ‘AugMax’: An Open-Sourced Data Augmentation Framework To Unify The Two Aspects Of Diversity And Hardness](https://www.marktechpost.com/2021/10/28/researchers-introduce-augmax-an-open-sourced-data-augmentation-framework-to-unify-the-two-aspects-of-diversity-and-hardness/)
