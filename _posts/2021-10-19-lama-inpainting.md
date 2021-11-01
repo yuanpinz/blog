@@ -1,6 +1,6 @@
 ---
 title: "Paper Reading: Resolution-robust Large Mask Inpainting with Fourier Convolutions"
-tags: ["paper reading", "inpainting", "fast fourier convolution"]
+tags: ["paper reading", "inpainting", "fast fourier convolution", "deep learning"]
 key: lama-inpainting
 ---
 
