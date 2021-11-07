@@ -8,6 +8,18 @@ aside:
 
 # Machine Learning Researches
 
+## 2021-11-04
+
+### Synced: [Washington U & Google Study Reveals How Attention Matrices Are Formed in Encoder-Decoder Architectures](https://syncedreview.com/2021/11/04/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-138/)
+
+## 2021-11-03
+
+### :star:MARKTECHPOST: [MIT Researchers Propose A New Method To Prevent Shortcuts In Machine Learning Models By Forcing The Model To Use More Data In Its Decision-Making](https://www.marktechpost.com/2021/11/03/mit-researchers-propose-a-new-method-to-prevent-shortcuts-in-machine-learning-models-by-forcing-the-model-to-use-more-data-in-its-decision-making/)
+
+### Google AI: [Self-Supervised Reversibility-Aware Reinforcement Learning](http://ai.googleblog.com/2021/11/self-supervised-reversibility-aware.html)
+
+### Synced: [Twitter Cortex Proposes LMSOC for Socially Sensitive Pretraining](https://syncedreview.com/2021/11/03/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-137/)
+
 ## 2021-10-29
 
 ### Synced: [DeepMind Study Resolves Delusions in Sequence Models for Interaction and Control](https://syncedreview.com/2021/10/29/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-134/)
