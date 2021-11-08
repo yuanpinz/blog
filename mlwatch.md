@@ -8,6 +8,10 @@ aside:
 
 # Machine Learning Researches
 
+## 2021-11-02
+
+### MARKTECHPOST: [Researchers Propose ‘Projected-GANs’, To Improve Image Quality, Sample Efficiency, And Convergence Speed](https://www.marktechpost.com/2021/11/02/researchers-propose-projected-gans-to-improve-image-quality-sample-efficiency-and-convergence-speed/)
+
 ## 2021-10-29
 
 ### Synced: [DeepMind Study Resolves Delusions in Sequence Models for Interaction and Control](https://syncedreview.com/2021/10/29/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-134/)
@@ -256,6 +260,26 @@ MLOps’ most important task: Ensure consistently high-quality data in all phase
 ---
 
 # Reddit/r/\<ML Topics\>
+
+### r/MachineLearning: [[D] What do Machine Learning Engineers at Facebook do?](https://www.reddit.com/r/MachineLearning/comments/qkyini/d_what_do_machine_learning_engineers_at_facebook/)
+
+> [PresidentOfTacoTown](https://www.reddit.com/user/PresidentOfTacoTown/)
+>
+> I can speak to my observed experience of the difference between three broad categories of Machine Learning adjacent roles that I imagine exist at a company like Facebook:
+>
+> **Machine Learning Engineer (MLE)**: This is more of a software engineering "like" role. You work on writing internal tools (sometimes that get open-sourced) and creating machine learning pipelines and infrastructure. So for example you may have the task of appropriately designing and optimizing the ways in which data gets stored, loaded, and preprocessed in order or something like trying to optimally parallelize training jobs to tune hyperparameters and architectures, some of your responsibilities might be making sure that the model is packaged and deployed appropriately so that infra/DevOps teams can monitor and adequately control it so that it interacts with the appropriate interfaces that use those models
+>
+> **Data Scientist (DS):** Your job is more about very solving specific business problems with data. I know through friends that have this position, that at Facebook they do a lot of their work in Jupyter Notebooks, for the ease of sharing the results with say other DSs and MLEs. With Facebook (as with many larger tech companies) a lot of your work is going to be on building models for predict customer behavior in terms of advertisement engagement. Depending on your seniority you will get to propose and choose different approaches and data sources, but ultimately your models are a part of the product you're selling for FB ads services so you'll be doing lots of A/B tests and evaluating the results, and you will need to be able to "deliver" and spend a fair amount of your time explaining your approaches
+>
+> **Research Scientist (RS):** You work with Facebook's AI Research group, you present novel methods and approaches that will broadly focus on delivering and solving FB business problem but generally you get a little more flexibility and creative freedom to try new stuff. Your time is spent working on implementing your research and then often working with MLEs to set up your experiments after you have some initial proof of concept done. It's a little more open-ended than the DS position, but if your results are promising you might find that your also working with DSs to see your working go into production.
+>
+> 
+>
+> Hope this helps, but I recommend looking at the different roles they have on their job sites and also look for similarly titled positions at comparably sized companies, these often have a tremendous amount of overlap.
+>
+> 
+>
+> As others have mentioned though the recruiter will likely be able to answer your questions as well.
 
 ### r/MachineLearning: [[D] How would you deploy an optimization type model? ex: CLIP+VQGAN](https://www.reddit.com/r/MachineLearning/comments/qckgsj/d_how_would_you_deploy_an_optimization_type_model/)
 
