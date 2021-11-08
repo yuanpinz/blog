@@ -11,7 +11,17 @@ aside:
 ## 2021-11-02
 
 ### MARKTECHPOST: [Researchers Propose ‘Projected-GANs’, To Improve Image Quality, Sample Efficiency, And Convergence Speed](https://www.marktechpost.com/2021/11/02/researchers-propose-projected-gans-to-improve-image-quality-sample-efficiency-and-convergence-speed/)
+## 2021-11-04
 
+### Synced: [Washington U & Google Study Reveals How Attention Matrices Are Formed in Encoder-Decoder Architectures](https://syncedreview.com/2021/11/04/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-138/)
+
+## 2021-11-03
+
+### :star:MARKTECHPOST: [MIT Researchers Propose A New Method To Prevent Shortcuts In Machine Learning Models By Forcing The Model To Use More Data In Its Decision-Making](https://www.marktechpost.com/2021/11/03/mit-researchers-propose-a-new-method-to-prevent-shortcuts-in-machine-learning-models-by-forcing-the-model-to-use-more-data-in-its-decision-making/)
+
+### Google AI: [Self-Supervised Reversibility-Aware Reinforcement Learning](http://ai.googleblog.com/2021/11/self-supervised-reversibility-aware.html)
+
+### Synced: [Twitter Cortex Proposes LMSOC for Socially Sensitive Pretraining](https://syncedreview.com/2021/11/03/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-137/)
 ## 2021-10-29
 
 ### Synced: [DeepMind Study Resolves Delusions in Sequence Models for Interaction and Control](https://syncedreview.com/2021/10/29/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-134/)
@@ -151,8 +161,6 @@ aside:
 
 ### :star:Synced: [DeepMind’s Bootstrapped Meta-Learning Enables Meta Learners to Teach Themselves](https://syncedreview.com/2021/09/20/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-107/)
 
-
-
 ## 2021.09.16
 
 ### :star:Google AI: [Toward Fast and Accurate Neural Networks for Image Recognition](http://ai.googleblog.com/2021/09/toward-fast-and-accurate-neural.html)
@@ -260,6 +268,18 @@ MLOps’ most important task: Ensure consistently high-quality data in all phase
 ---
 
 # Reddit/r/\<ML Topics\>
+
+### r/MachineLearning: [[D] Measure the distance between two domains for transfer learning.](https://www.reddit.com/r/MachineLearning/comments/qoqpv2/d_measure_the_distance_between_two_domains_for/)
+
+> [apprximatelycorrect](https://www.reddit.com/user/apprximatelycorrect/)
+>
+> No, this is actually an active research area. You are, roughly asking, suppose you want to minimize F_P(t) := E_P[f(t, z)], in the parameter t. But instead you have samples Z ~ Q, where Q is not equal to P. Your question boils down to "how easy is it to optimize F_P(t), given sample access to Q"?.
+>
+> Of course some type of assumptions on the loss f, parameter space that t lies in, and the distribution pair (P, Q) will be necessary to make progress. Your question suggests one popular one, called covariate shift or domain adaptation, where Z = (X, Y) and the conditional distribution Y | X is fixed (i.e., it is the same) under P and Q, but the distribution on X is allowed to vary.
+>
+> To my knowledge there is not yet an established metric of difficulty in the above described situation. As you can imagine, it will not just depend on P, Q, but rather also the type of task being addressed (e.g., if f is a square loss, and t is a linear functional on the data, then this is like estimating a linear model with a different distribution on the covariates, so you would roughly expect the complexity to scale in tr(Cov_Q^{-1} Cov_P), where here tr is trace, and Cov_D is the expectation E_D[X X^T]. This is d (the dimension of the covariates) when P = Q.)
+>
+> You might also see: https://arxiv.org/pdf/1803.01833.pdf, this paper introduces one notion called the "transfer exponent".
 
 ### r/MachineLearning: [[D] What do Machine Learning Engineers at Facebook do?](https://www.reddit.com/r/MachineLearning/comments/qkyini/d_what_do_machine_learning_engineers_at_facebook/)
 
