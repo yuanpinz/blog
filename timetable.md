@@ -1,9 +1,11 @@
 ---
 layout: article
-title: Conferences
-key: page-conferences
+title: Timetable
+key: page-timetable
 comment: false
 ---
+
+## Conferences
 
 
 | H-index | CCF   | Conference                                                   | Submission Deadline                                          | Notification                                                 | Conference Date          | Status                                            |
@@ -53,4 +55,20 @@ comment: false
 | ~~57~~  | ~~C~~ | ~~[AISTATS 2022](https://aistats.org/aistats2022/index.html)~~ | ~~Oct 8, 2021 (abstract)<br/>Oct 15, 2021 (full paper)<br/>Oct 22, 2021 (supplement& code)~~ | ~~Nov 26, 2021 (Reviews released)<br/>Dec 3, 2021 (rebuttal ends)<br/>Jan 18, 2022 (final decision)~~ | ~~Mar 30-Apr 1, 2022~~   | :negative_squared_cross_mark:                     |
 | ~~36~~  | ~~B~~ | ~~[SDM 2022](https://www.siam.org/conferences/cm/conference/sdm22)~~ | ~~Oct 12, 2021~~                                             |                                                              | ~~Apr 28-30, 2022~~      | :negative_squared_cross_mark:                     |
 | ~~299~~ | ~~A~~ | ~~[CVPR 2022](http://cvpr2022.thecvf.com/)~~                 | ~~Nov 9, 2021 (paper registration)<br/>Nov 16, 2021 (full paper)<br/>Nov 23, 2021 (supplement)~~ | ~~Jan 24, 2021 (Reviews released)<br/>Jan 31, 2021 (rebuttal ends)<br/>March 2, 2022 (final decision)~~ | ~~Jun 21-24, 2022~~      | :negative_squared_cross_mark:                     |
+
+## Journals
+
+| Journal               | Title                                                        | Submission Date | Revision |
+| --------------------- | ------------------------------------------------------------ | --------------- | -------- |
+| Frontiers in Oncology | Generating Full-field Digital Mammogram from Digitized Screen-film Mammogram for Breast Cancer Screening with High-Resolution Generative Adversarial Network | Jan 8, 2022     | -        |
+
+## Kaggle Competitions
+
+| Competition                                                  | Challenge                                    | Deadline     | Prizes   |
+| ------------------------------------------------------------ | -------------------------------------------- | ------------ | -------- |
+| [Sartorius - Cell Instance Segmentation](https://www.kaggle.com/c/sartorius-cell-instance-segmentation) | Segmentation (IoU)                           | Dec 30, 2021 | $75,000  |
+| [NFL Big Data Bowl 2022](https://www.kaggle.com/c/nfl-big-data-bowl-2022) | Analysis report                              | Jan 6, 2022  | $100,000 |
+| [PetFinder.my - Pawpularity Contest](https://www.kaggle.com/c/petfinder-pawpularity-score) | Regression on images (RMSE)                  | Jan 13, 2022 | $25,000  |
+| [G-Research Crypto Forecasting](https://www.kaggle.com/c/g-research-crypto-forecasting) | Regression (Pearson correlation coefficient) | Feb 1, 2022  | $125,000 |
+| [Jigsaw Rate Severity of Toxic Comments](https://www.kaggle.com/c/jigsaw-toxic-severity-rating) | Regression on texts                          | Feb 7, 2022  | $50,000  |
 

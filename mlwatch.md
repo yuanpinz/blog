@@ -12,6 +12,8 @@ aside:
 
 ### Synced: [Can ViT Layers Express Convolutions? Peking U, UCLA & Microsoft Researchers Say ‘Yes’](https://syncedreview.com/2021/11/09/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-141/)
 
+### MARKTECHPOST: [MIT AI Researchers Introduce ‘PARP’: A Method To Improve The Efficiency And Performance Of A Neural Network](https://www.marktechpost.com/2021/11/09/mit-ai-researchers-introduce-parp-a-method-to-improve-the-efficiency-and-performance-of-a-neural-network/)
+
 ## 2021-11-02
 
 ### MARKTECHPOST: [Researchers Propose ‘Projected-GANs’, To Improve Image Quality, Sample Efficiency, And Convergence Speed](https://www.marktechpost.com/2021/11/02/researchers-propose-projected-gans-to-improve-image-quality-sample-efficiency-and-convergence-speed/)
