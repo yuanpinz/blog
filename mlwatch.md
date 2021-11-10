@@ -8,6 +8,10 @@ aside:
 
 # Machine Learning Researches
 
+## 2021-10-09
+
+### Synced: [Can ViT Layers Express Convolutions? Peking U, UCLA & Microsoft Researchers Say ‘Yes’](https://syncedreview.com/2021/11/09/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-141/)
+
 ## 2021-11-02
 
 ### MARKTECHPOST: [Researchers Propose ‘Projected-GANs’, To Improve Image Quality, Sample Efficiency, And Convergence Speed](https://www.marktechpost.com/2021/11/02/researchers-propose-projected-gans-to-improve-image-quality-sample-efficiency-and-convergence-speed/)
