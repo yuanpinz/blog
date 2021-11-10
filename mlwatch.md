@@ -8,7 +8,11 @@ aside:
 
 # Machine Learning Researches
 
-## 2021-10-09
+## 2021-11-10
+
+### Google AI: [Model Ensembles Are Faster Than You Think](http://ai.googleblog.com/2021/11/model-ensembles-are-faster-than-you.html)
+
+## 2021-11-09
 
 ### Synced: [Can ViT Layers Express Convolutions? Peking U, UCLA & Microsoft Researchers Say ‘Yes’](https://syncedreview.com/2021/11/09/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-141/)
 
