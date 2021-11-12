@@ -8,6 +8,10 @@ aside:
 
 # Machine Learning Researches
 
+## 2021-11-11
+
+### Google AI: [Making Better Future Predictions by Watching Unlabeled Videos](http://ai.googleblog.com/2021/11/making-better-future-predictions-by.html)
+
 ## 2021-11-10
 
 ### Google AI: [Model Ensembles Are Faster Than You Think](http://ai.googleblog.com/2021/11/model-ensembles-are-faster-than-you.html)
