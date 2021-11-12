@@ -10,4 +10,4 @@ aside:
 
 ### [Nov 11, 2021] Joe Lacob Talks owning Warriors, getting Steph another ring, Goals for future
 
-<div>{%- include extensions/youtube.html id='8JLvXXMgEfk' -%}</div>
+<div>{%- include extensions/youtube.html id='VHpt0R2po1g' -%}</div>
