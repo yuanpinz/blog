@@ -8,6 +8,10 @@ aside:
 
 # Machine Learning Researches
 
+## 2021-11-12
+
+### :star:Synced: [DeepMind’s One Pass ImageNet: A New Benchmark for Resource Efficiency in Deep Learning](https://syncedreview.com/2021/11/12/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-143/)
+
 ## 2021-11-11
 
 ### Google AI: [Making Better Future Predictions by Watching Unlabeled Videos](http://ai.googleblog.com/2021/11/making-better-future-predictions-by.html)
