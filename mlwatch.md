@@ -8,6 +8,26 @@ aside:
 
 # Machine Learning Researches
 
+## 2021-11-19
+
+### MARKTECHPOST: [Imperial College London Researchers Propose A Novel Randomly Connected Neural Network For Self-Supervised Monocular Depth Estimation In Computer Vision](https://www.marktechpost.com/2021/11/19/imperial-college-london-researchers-propose-a-novel-randomly-connected-neural-network-for-self-supervised-monocular-depth-estimation-in-computer-vision/)
+
+### Synced: [SPANN: A Highly-Efficient Billion-Scale Approximate Nearest Neighbour Search That’s 2× Faster Than the SOTA Method](https://syncedreview.com/2021/11/19/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-148/)
+
+## 2021-11-18
+
+### Google AI: [Permutation-Invariant Neural Networks for Reinforcement Learning](http://ai.googleblog.com/2021/11/permutation-invariant-neural-networks.html)
+
+## 2021-11-17
+
+### Google AI: [Predicting Text Readability from Scrolling Interactions](http://ai.googleblog.com/2021/11/predicting-text-readability-from.html)
+
+## 2021-11-16
+
+### Synced: [Google Brain & Radboud U ‘Dive Into Chaos’ to Show Gradients Are Not All You Need in Dynamical Systems](https://syncedreview.com/2021/11/16/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-145/)
+
+### MARKTECHPOST: [DeepMind Researchers Present The ‘One Pass ImageNet’ (OPIN) Problem To Study The Effectiveness Of Deep Learning In A Streaming Setting](https://www.marktechpost.com/2021/11/16/deepmind-researchers-present-the-one-pass-imagenet-opin-problem-to-study-the-effectiveness-of-deep-learning-in-a-streaming-setting/)
+
 ## 2021-11-15
 
 ### Google AI: [MetNet-2: Deep Learning for 12-Hour Precipitation Forecasting](http://ai.googleblog.com/2021/11/metnet-2-deep-learning-for-12-hour.html)
