@@ -311,6 +311,25 @@ MLOps’ most important task: Ensure consistently high-quality data in all phase
 
 # Reddit/r/\<ML Topics\>
 
+### r/MachineLearning: [[D] 5 considerations for Deploying Machine Learning Models in Production – what did I miss?](https://www.reddit.com/r/MachineLearning/comments/qz3qtv/d_5_considerations_for_deploying_machine_learning/)
+
+> Posted by [u/mgalarny](https://www.reddit.com/user/mgalarny/)
+>
+> I wrote a post about [considerations for deploying machine learning models in production.](https://towardsdatascience.com/considerations-for-deploying-machine-learning-models-in-production-89d38d96cc23) Below are the considerations. What did I not consider? I know the first consideration seems obvious, but I thought it was worth mentioning.
+>
+> > [Charming-Fishing3155](https://www.reddit.com/user/Charming-Fishing3155/)
+> >
+> > So:
+> >
+> > 1. You do not need feature store, unless your model depends on real time feature values , I.e. values that occurred after the model was trained. Those are usually relate to time based information.
+> > 2. You missed model fairness and bias measurements.
+> > 3. You missed progressive deployment. Usually models are deployed in shadow mode or canary mode. This way you can compare the new model to the old model, before promotion.
+> > 4. I would also recommend having some sort of a CD pipeline, such that the models are tested in production like env (e.g. staging) before placing them in production.
+> > 5. Within the CI/CD you should design ML specific unit tests.
+> > 6. Regarding monitoring, you should also monitor you data sources - e.g. general data quality, as well as latency, health, etc.
+> > 7. You should have a mechanism such that models can be rolled back to previous versions.
+> > 8. Note that there are two kinds of productions: real time and batch. Depending on your use case, you might want to consider your points as they relate to the batch use case.
+
 ### r/MachineLearning: [[D] Measure the distance between two domains for transfer learning.](https://www.reddit.com/r/MachineLearning/comments/qoqpv2/d_measure_the_distance_between_two_domains_for/)
 
 > [apprximatelycorrect](https://www.reddit.com/user/apprximatelycorrect/)
