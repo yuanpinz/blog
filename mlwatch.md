@@ -8,6 +8,12 @@ aside:
 
 # Machine Learning Researches
 
+## 2021-11-22
+
+### Synced: [Microsoft Asia’s Swin Transformer V2 Scales the Award-Winning ViT to 3 Billion Parameters and Achieves SOTA Performance on Vision Benchmarks](https://syncedreview.com/2021/11/22/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-149/)
+
+### Google AI: [Predicting Text Selections with Federated Learning](http://ai.googleblog.com/2021/11/predicting-text-selections-with.html)
+
 ## 2021-11-19
 
 ### MARKTECHPOST: [Imperial College London Researchers Propose A Novel Randomly Connected Neural Network For Self-Supervised Monocular Depth Estimation In Computer Vision](https://www.marktechpost.com/2021/11/19/imperial-college-london-researchers-propose-a-novel-randomly-connected-neural-network-for-self-supervised-monocular-depth-estimation-in-computer-vision/)
