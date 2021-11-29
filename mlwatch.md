@@ -8,7 +8,6 @@ aside:
 
 # Machine Learning Researches
 
-<<<<<<< HEAD
 ## 2021-11-22
 
 ### Synced: [Microsoft Asia’s Swin Transformer V2 Scales the Award-Winning ViT to 3 Billion Parameters and Achieves SOTA Performance on Vision Benchmarks](https://syncedreview.com/2021/11/22/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-149/)
@@ -42,12 +41,9 @@ aside:
 ### Synced: [Google’s Pet Portraits Will Find Art Doubles for Your Pets](https://syncedreview.com/2021/11/15/googles-pet-portraits-will-find-art-doubles-for-your-pets/)
 
 ### :star:Synced: [A Leap Forward in Computer Vision: Facebook AI Says Masked Autoencoders Are Scalable Vision Learners](https://syncedreview.com/2021/11/15/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-144/)
-=======
 ## 2021-11-12
 
 ### :star:Synced: [DeepMind’s One Pass ImageNet: A New Benchmark for Resource Efficiency in Deep Learning](https://syncedreview.com/2021/11/12/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-143/)
->>>>>>> 0798a7d8c6b9b874c819dc26d62184ed56831a46
-
 ## 2021-11-11
 
 ### Google AI: [Making Better Future Predictions by Watching Unlabeled Videos](http://ai.googleblog.com/2021/11/making-better-future-predictions-by.html)
