@@ -8,6 +8,14 @@ aside:
 
 # Machine Learning Researches
 
+## 2021-11-28
+
+### MARKTECHPOST: [Google Research Open-Sources ‘SAVi’: An Object-Centric Architecture That Extends The Slot Attention Mechanism To Videos](https://www.marktechpost.com/2021/11/28/google-research-open-sources-savi-an-object-centric-architecture-that-extends-the-slot-attention-mechanism-to-videos/?utm_source=rss&utm_medium=rss&utm_campaign=google-research-open-sources-savi-an-object-centric-architecture-that-extends-the-slot-attention-mechanism-to-videos)
+
+## 2021-11-27
+
+### MARKTECHPOST: [Apple Researchers Propose A Method For Reconstructing Training Data From Diverse Machine Learning Models By Ensemble Inversion](https://www.marktechpost.com/2021/11/27/apple-researchers-propose-a-method-for-reconstructing-training-data-from-diverse-machine-learning-models-by-ensemble-inversion/?utm_source=rss&utm_medium=rss&utm_campaign=apple-researchers-propose-a-method-for-reconstructing-training-data-from-diverse-machine-learning-models-by-ensemble-inversion)
+
 ## 2021-11-22
 
 ### Synced: [Microsoft Asia’s Swin Transformer V2 Scales the Award-Winning ViT to 3 Billion Parameters and Achieves SOTA Performance on Vision Benchmarks](https://syncedreview.com/2021/11/22/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-149/)
