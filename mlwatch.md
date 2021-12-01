@@ -8,6 +8,10 @@ aside:
 
 # Machine Learning Researches
 
+## 2021-11-30
+
+### MARKTECHPOST: [Microsoft Researchers Unlock New Avenues In Image-Generation Research With Manifold Matching Via Metric Learning](https://www.marktechpost.com/2021/11/30/microsoft-researchers-unlock-new-avenues-in-image-generation-research-with-manifold-matching-via-metric-learning/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-researchers-unlock-new-avenues-in-image-generation-research-with-manifold-matching-via-metric-learning)
+
 ## 2021-11-22
 
 ### Synced: [Microsoft Asia’s Swin Transformer V2 Scales the Award-Winning ViT to 3 Billion Parameters and Achieves SOTA Performance on Vision Benchmarks](https://syncedreview.com/2021/11/22/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-149/)
