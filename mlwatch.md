@@ -20,7 +20,9 @@ aside:
 
 ## 2021-12-01
 
-### Yannic Kilcher: [Sparse is Enough in Scaling Transformers (aka Terraformer)](https://youtu.be/hgSGHusDx7M)
+### :star: Synced: [Warsaw U, Google & OpenAI’s Terraformer Achieves a 37x Speedup Over Dense Baselines on 17B Transformer Decoding](https://syncedreview.com/2021/12/03/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-158/)
+
+[[Yannic Kilcher]](https://youtu.be/hgSGHusDx7M)
 
 ### :star:DeepMind: [Exploring the beauty of pure mathematics in novel ways](https://deepmind.com/blog/article/exploring-the-beauty-of-pure-mathematics-in-novel-ways)
 
