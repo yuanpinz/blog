@@ -8,6 +8,16 @@ aside:
 
 # Machine Learning Researches
 
+## 2021-12-07
+
+### Google AI: [Improving Vision Transformer Efficiency and Accuracy by Learning to Tokenize](http://ai.googleblog.com/2021/12/improving-vision-transformer-efficiency.html)
+
+## 2021-12-06
+
+### TechTalks: [Why we must rethink AI benchmarks](https://bdtechtalks.com/2021/12/06/ai-benchmarks-limitations/)
+
+### Google AI: [Google at NeurIPS 2021](http://ai.googleblog.com/2021/12/google-at-neurips-2021.html)
+
 ## 2021-12-01
 
 ### Yannic Kilcher: [Sparse is Enough in Scaling Transformers (aka Terraformer)](https://youtu.be/hgSGHusDx7M)
