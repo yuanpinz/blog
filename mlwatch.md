@@ -8,6 +8,10 @@ aside:
 
 # Machine Learning Researches
 
+## 2021-12-11
+
+### :star:MARKTECHPOST: [AI Researchers Propose ‘GANgealing’: A GAN-Supervised Algorithm That Learns Transformations of Input Images to Bring Them into Better Joint Alignment](https://www.marktechpost.com/2021/12/11/ai-researchers-propose-gangealing-a-gan-supervised-algorithm-that-learns-transformations-of-input-images-to-bring-them-into-better-joint-alignment/?utm_source=rss&utm_medium=rss&utm_campaign=ai-researchers-propose-gangealing-a-gan-supervised-algorithm-that-learns-transformations-of-input-images-to-bring-them-into-better-joint-alignment)
+
 ## 2021-12-07
 
 ### Google AI: [Improving Vision Transformer Efficiency and Accuracy by Learning to Tokenize](http://ai.googleblog.com/2021/12/improving-vision-transformer-efficiency.html)
