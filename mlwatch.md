@@ -8,6 +8,20 @@ aside:
 
 # Machine Learning Researches
 
+## 2021-12-15
+
+### :star:Google AI: [Training Machine Learning Models More Efficiently with Dataset Distillation](http://ai.googleblog.com/2021/12/training-machine-learning-models-more.html)
+
+## 2021-12-14
+
+### Google AI: [Google Proposes a ‘Simple Trick’ for Dramatically Reducing Transformers’ (Self-)Attention Memory Requirements](https://syncedreview.com/2021/12/14/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-165/)
+
+## 2021-12-13
+
+### Google AI: [Interpretable Deep Learning for Time Series Forecasting](http://ai.googleblog.com/2021/12/interpretable-deep-learning-for-time.html)
+
+### Synced: [DeepMind’s RETRO Retrieval-Enhanced Transformer Retrieves from Trillions of Tokens, Achieving Performance Comparable to GPT-3 With 25× Fewer Parameters](https://syncedreview.com/2021/12/13/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-164/)
+
 ## 2021-12-11
 
 ### :star:MARKTECHPOST: [AI Researchers Propose ‘GANgealing’: A GAN-Supervised Algorithm That Learns Transformations of Input Images to Bring Them into Better Joint Alignment](https://www.marktechpost.com/2021/12/11/ai-researchers-propose-gangealing-a-gan-supervised-algorithm-that-learns-transformations-of-input-images-to-bring-them-into-better-joint-alignment/?utm_source=rss&utm_medium=rss&utm_campaign=ai-researchers-propose-gangealing-a-gan-supervised-algorithm-that-learns-transformations-of-input-images-to-bring-them-into-better-joint-alignment)
