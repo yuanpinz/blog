@@ -8,6 +8,10 @@ aside:
 
 # Machine Learning Researches
 
+## 2021-12-16
+
+### Google AI: [A Scalable Approach for Partially Local Federated Learning](http://ai.googleblog.com/2021/12/a-scalable-approach-for-partially-local.html)
+
 ## 2021-12-15
 
 ### :star:Google AI: [Training Machine Learning Models More Efficiently with Dataset Distillation](http://ai.googleblog.com/2021/12/training-machine-learning-models-more.html)
