@@ -8,6 +8,14 @@ aside:
 
 # Machine Learning Researches
 
+## 2021-12-23
+
+### Synced: [Advancing Deep Learning With Collective Intelligence: Google Brain Surveys Recent Developments](https://syncedreview.com/2021/12/23/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-172/)
+
+## 2021-12-19
+
+### MARKTECHPOST: [MIT Researchers Propose Patch-Based Inference to Reduce the Memory Usage for Tiny Deep Learning](https://www.marktechpost.com/2021/12/19/mit-researchers-propose-patch-based-inference-to-reduce-the-memory-usage-for-tiny-deep-learning/?utm_source=rss&utm_medium=rss&utm_campaign=mit-researchers-propose-patch-based-inference-to-reduce-the-memory-usage-for-tiny-deep-learning)
+
 ## 2021-12-16
 
 ### Google AI: [A Scalable Approach for Partially Local Federated Learning](http://ai.googleblog.com/2021/12/a-scalable-approach-for-partially-local.html)
