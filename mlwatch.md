@@ -8,9 +8,15 @@ aside:
 
 # Machine Learning Researches
 
+## 2021-12-24
+
+### Synced: [OpenAI Releases GLIDE: A Scaled-Down Text-to-Image Model That Rivals DALL-E Performance](https://syncedreview.com/2021/12/24/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-173/)
+
 ## 2021-12-23
 
 ### Synced: [Advancing Deep Learning With Collective Intelligence: Google Brain Surveys Recent Developments](https://syncedreview.com/2021/12/23/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-172/)
+
+### MARKTECHPOST: [Researchers Demonstrate Face Detection in Untrained Deep Neural Networks](https://www.marktechpost.com/2021/12/23/researchers-demonstrate-face-detection-in-untrained-deep-neural-networks/?utm_source=rss&utm_medium=rss&utm_campaign=researchers-demonstrate-face-detection-in-untrained-deep-neural-networks)
 
 ## 2021-12-19
 
