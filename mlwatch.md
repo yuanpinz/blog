@@ -8,6 +8,10 @@ aside:
 
 # Machine Learning Researches
 
+## 2021-12-30
+
+### Synced: [Fujitsu AI, Tokyo U & RIKEN AIP Study Decomposes DNNs Into Modules That Can Be Recomposed Into New Models for Other Tasks](https://syncedreview.com/2021/12/30/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-175/)
+
 ## 2021-12-24
 
 ### Synced: [OpenAI Releases GLIDE: A Scaled-Down Text-to-Image Model That Rivals DALL-E Performance](https://syncedreview.com/2021/12/24/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-173/)
