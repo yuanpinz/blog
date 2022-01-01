@@ -8,6 +8,10 @@ aside:
 
 # Machine Learning Researches
 
+## 2021-12-31
+
+### MARKTECHPOST: [ETH Zurich Team Introduce Exemplar Transformers: A New Efficient Transformer Layer For Real-Time Visual Object Tracking](https://www.marktechpost.com/2021/12/31/eth-zurich-team-introduce-exemplar-transformers-a-new-efficient-transformer-layer-for-real-time-visual-object-tracking/?utm_source=rss&utm_medium=rss&utm_campaign=eth-zurich-team-introduce-exemplar-transformers-a-new-efficient-transformer-layer-for-real-time-visual-object-tracking)
+
 ## 2021-12-30
 
 ### Synced: [Fujitsu AI, Tokyo U & RIKEN AIP Study Decomposes DNNs Into Modules That Can Be Recomposed Into New Models for Other Tasks](https://syncedreview.com/2021/12/30/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-175/)
