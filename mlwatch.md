@@ -8,6 +8,24 @@ aside:
 
 # Machine Learning Researches
 
+## 2022-01-07
+
+### MARKTECHPOST: [Yale University and IBM Researchers Introduce Kernel Graph Neural Networks (KerGNNs)](https://www.marktechpost.com/2022/01/07/yale-university-and-ibm-researchers-introduce-kernel-graph-neural-networks-kergnns/?utm_source=rss&utm_medium=rss&utm_campaign=yale-university-and-ibm-researchers-introduce-kernel-graph-neural-networks-kergnns)
+
+## 2022-01-06
+
+### MARKTECHPOST: [Meta AI and CMU Researchers Present ‘BANMo’: A New Neural Network-Based Method To Build Animatable 3D Models From Videos](https://www.marktechpost.com/2022/01/06/meta-ai-and-cmu-researchers-present-banmo-a-new-neural-network-based-method-to-build-animatable-3d-models-from-videos/?utm_source=rss&utm_medium=rss&utm_campaign=meta-ai-and-cmu-researchers-present-banmo-a-new-neural-network-based-method-to-build-animatable-3d-models-from-videos)
+
+### MARKTECHPOST: [Efficient Large-scale Object Counting in Satellite Images with Importance Sampling](https://www.marktechpost.com/2022/01/06/efficient-large-scale-object-counting-in-satellite-images-with-importance-sampling/?utm_source=rss&utm_medium=rss&utm_campaign=efficient-large-scale-object-counting-in-satellite-images-with-importance-sampling)
+
+## 2022-01-05
+
+### MARKTECHPOST: [Researchers From Stanford and NVIDIA Introduce A Tri-Plane-Based 3D GAN Framework To Enable High-Resolution Geometry-Aware Image Synthesis](https://www.marktechpost.com/2022/01/05/researchers-from-stanford-and-nvidia-introduce-a-tri-plane-based-3d-gan-framework-to-enable-high-resolution-geometry-aware-image-synthesis/?utm_source=rss&utm_medium=rss&utm_campaign=researchers-from-stanford-and-nvidia-introduce-a-tri-plane-based-3d-gan-framework-to-enable-high-resolution-geometry-aware-image-synthesis)
+
+## 2022-01-02
+
+### MARKTECHPOST: [Researchers Propose Mitigation Strategies to Tackle Overinterpretation of Deep Learning Methods](https://www.marktechpost.com/2022/01/02/researchers-propose-mitigation-strategies-to-tackle-overinterpretation-of-deep-learning-methods/?utm_source=rss&utm_medium=rss&utm_campaign=researchers-propose-mitigation-strategies-to-tackle-overinterpretation-of-deep-learning-methods)
+
 ## 2021-12-31
 
 ### MARKTECHPOST: [ETH Zurich Team Introduce Exemplar Transformers: A New Efficient Transformer Layer For Real-Time Visual Object Tracking](https://www.marktechpost.com/2021/12/31/eth-zurich-team-introduce-exemplar-transformers-a-new-efficient-transformer-layer-for-real-time-visual-object-tracking/?utm_source=rss&utm_medium=rss&utm_campaign=eth-zurich-team-introduce-exemplar-transformers-a-new-efficient-transformer-layer-for-real-time-visual-object-tracking)
