@@ -8,79 +8,59 @@ aside:
 
 # Machine Learning Researches
 
-## 2022-01-07
+## 2022-01
+
+### :star: Google AI: [Introducing StylEx: A New Approach for Visual Explanation of Classifiers](http://ai.googleblog.com/2022/01/introducing-stylex-new-approach-for.html)
+
+### Synced: [Pushing the Limits of Self-Supervised ResNets: DeepMind’s ReLICv2 Beats Strong Supervised Baselines on ImageNet](https://syncedreview.com/2022/01/17/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-186/)
+
+### Google AI: [Learning to Route by Task for Efficient Inference](http://ai.googleblog.com/2022/01/learning-to-route-by-task-for-efficient.html)
+
+### Google AI: [Scaling Vision with Sparse Mixture of Experts](http://ai.googleblog.com/2022/01/scaling-vision-with-sparse-mixture-of.html)
+
+### :star:Synced: [Facebook AI & UC Berkeley’s ConvNeXts Compete Favourably With SOTA Hierarchical ViTs on CV Benchmarks](https://syncedreview.com/2022/01/13/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-184/)
 
 ### MARKTECHPOST: [Yale University and IBM Researchers Introduce Kernel Graph Neural Networks (KerGNNs)](https://www.marktechpost.com/2022/01/07/yale-university-and-ibm-researchers-introduce-kernel-graph-neural-networks-kergnns/?utm_source=rss&utm_medium=rss&utm_campaign=yale-university-and-ibm-researchers-introduce-kernel-graph-neural-networks-kergnns)
-
-## 2022-01-06
 
 ### MARKTECHPOST: [Meta AI and CMU Researchers Present ‘BANMo’: A New Neural Network-Based Method To Build Animatable 3D Models From Videos](https://www.marktechpost.com/2022/01/06/meta-ai-and-cmu-researchers-present-banmo-a-new-neural-network-based-method-to-build-animatable-3d-models-from-videos/?utm_source=rss&utm_medium=rss&utm_campaign=meta-ai-and-cmu-researchers-present-banmo-a-new-neural-network-based-method-to-build-animatable-3d-models-from-videos)
 
 ### MARKTECHPOST: [Efficient Large-scale Object Counting in Satellite Images with Importance Sampling](https://www.marktechpost.com/2022/01/06/efficient-large-scale-object-counting-in-satellite-images-with-importance-sampling/?utm_source=rss&utm_medium=rss&utm_campaign=efficient-large-scale-object-counting-in-satellite-images-with-importance-sampling)
 
-## 2022-01-05
-
 ### MARKTECHPOST: [Researchers From Stanford and NVIDIA Introduce A Tri-Plane-Based 3D GAN Framework To Enable High-Resolution Geometry-Aware Image Synthesis](https://www.marktechpost.com/2022/01/05/researchers-from-stanford-and-nvidia-introduce-a-tri-plane-based-3d-gan-framework-to-enable-high-resolution-geometry-aware-image-synthesis/?utm_source=rss&utm_medium=rss&utm_campaign=researchers-from-stanford-and-nvidia-introduce-a-tri-plane-based-3d-gan-framework-to-enable-high-resolution-geometry-aware-image-synthesis)
-
-## 2022-01-02
 
 ### MARKTECHPOST: [Researchers Propose Mitigation Strategies to Tackle Overinterpretation of Deep Learning Methods](https://www.marktechpost.com/2022/01/02/researchers-propose-mitigation-strategies-to-tackle-overinterpretation-of-deep-learning-methods/?utm_source=rss&utm_medium=rss&utm_campaign=researchers-propose-mitigation-strategies-to-tackle-overinterpretation-of-deep-learning-methods)
 
-## 2021-12-31
+## 2021-12
 
 ### MARKTECHPOST: [ETH Zurich Team Introduce Exemplar Transformers: A New Efficient Transformer Layer For Real-Time Visual Object Tracking](https://www.marktechpost.com/2021/12/31/eth-zurich-team-introduce-exemplar-transformers-a-new-efficient-transformer-layer-for-real-time-visual-object-tracking/?utm_source=rss&utm_medium=rss&utm_campaign=eth-zurich-team-introduce-exemplar-transformers-a-new-efficient-transformer-layer-for-real-time-visual-object-tracking)
 
-## 2021-12-30
-
 ### Synced: [Fujitsu AI, Tokyo U & RIKEN AIP Study Decomposes DNNs Into Modules That Can Be Recomposed Into New Models for Other Tasks](https://syncedreview.com/2021/12/30/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-175/)
 
-## 2021-12-24
-
 ### Synced: [OpenAI Releases GLIDE: A Scaled-Down Text-to-Image Model That Rivals DALL-E Performance](https://syncedreview.com/2021/12/24/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-173/)
-
-## 2021-12-23
 
 ### Synced: [Advancing Deep Learning With Collective Intelligence: Google Brain Surveys Recent Developments](https://syncedreview.com/2021/12/23/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-172/)
 
 ### MARKTECHPOST: [Researchers Demonstrate Face Detection in Untrained Deep Neural Networks](https://www.marktechpost.com/2021/12/23/researchers-demonstrate-face-detection-in-untrained-deep-neural-networks/?utm_source=rss&utm_medium=rss&utm_campaign=researchers-demonstrate-face-detection-in-untrained-deep-neural-networks)
 
-## 2021-12-19
-
 ### MARKTECHPOST: [MIT Researchers Propose Patch-Based Inference to Reduce the Memory Usage for Tiny Deep Learning](https://www.marktechpost.com/2021/12/19/mit-researchers-propose-patch-based-inference-to-reduce-the-memory-usage-for-tiny-deep-learning/?utm_source=rss&utm_medium=rss&utm_campaign=mit-researchers-propose-patch-based-inference-to-reduce-the-memory-usage-for-tiny-deep-learning)
-
-## 2021-12-16
 
 ### Google AI: [A Scalable Approach for Partially Local Federated Learning](http://ai.googleblog.com/2021/12/a-scalable-approach-for-partially-local.html)
 
-## 2021-12-15
-
 ### :star:Google AI: [Training Machine Learning Models More Efficiently with Dataset Distillation](http://ai.googleblog.com/2021/12/training-machine-learning-models-more.html)
 
-## 2021-12-14
-
 ### Google AI: [Google Proposes a ‘Simple Trick’ for Dramatically Reducing Transformers’ (Self-)Attention Memory Requirements](https://syncedreview.com/2021/12/14/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-165/)
-
-## 2021-12-13
 
 ### Google AI: [Interpretable Deep Learning for Time Series Forecasting](http://ai.googleblog.com/2021/12/interpretable-deep-learning-for-time.html)
 
 ### Synced: [DeepMind’s RETRO Retrieval-Enhanced Transformer Retrieves from Trillions of Tokens, Achieving Performance Comparable to GPT-3 With 25× Fewer Parameters](https://syncedreview.com/2021/12/13/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-164/)
 
-## 2021-12-11
-
 ### :star:MARKTECHPOST: [AI Researchers Propose ‘GANgealing’: A GAN-Supervised Algorithm That Learns Transformations of Input Images to Bring Them into Better Joint Alignment](https://www.marktechpost.com/2021/12/11/ai-researchers-propose-gangealing-a-gan-supervised-algorithm-that-learns-transformations-of-input-images-to-bring-them-into-better-joint-alignment/?utm_source=rss&utm_medium=rss&utm_campaign=ai-researchers-propose-gangealing-a-gan-supervised-algorithm-that-learns-transformations-of-input-images-to-bring-them-into-better-joint-alignment)
 
-## 2021-12-07
-
 ### Google AI: [Improving Vision Transformer Efficiency and Accuracy by Learning to Tokenize](http://ai.googleblog.com/2021/12/improving-vision-transformer-efficiency.html)
-
-## 2021-12-06
 
 ### TechTalks: [Why we must rethink AI benchmarks](https://bdtechtalks.com/2021/12/06/ai-benchmarks-limitations/)
 
 ### Google AI: [Google at NeurIPS 2021](http://ai.googleblog.com/2021/12/google-at-neurips-2021.html)
-
-## 2021-12-01
 
 ### :star: Synced: [Warsaw U, Google & OpenAI’s Terraformer Achieves a 37x Speedup Over Dense Baselines on 17B Transformer Decoding](https://syncedreview.com/2021/12/03/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-158/)
 
@@ -90,89 +70,55 @@ aside:
 
 ### Synced: [NeurIPS 2021 Announces Its 6 Outstanding Paper Awards, 2 Datasets and Benchmarks Track Best Paper Awards, and the Test of Time Award](https://syncedreview.com/2021/12/01/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-156/)
 
-## 2021-11-30
+## 2021-11
 
 ### :star:MARKTECHPOST: [Microsoft Researchers Unlock New Avenues In Image-Generation Research With Manifold Matching Via Metric Learning](https://www.marktechpost.com/2021/11/30/microsoft-researchers-unlock-new-avenues-in-image-generation-research-with-manifold-matching-via-metric-learning/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-researchers-unlock-new-avenues-in-image-generation-research-with-manifold-matching-via-metric-learning)
-## 2021-11-28
-
 ### MARKTECHPOST: [Google Research Open-Sources ‘SAVi’: An Object-Centric Architecture That Extends The Slot Attention Mechanism To Videos](https://www.marktechpost.com/2021/11/28/google-research-open-sources-savi-an-object-centric-architecture-that-extends-the-slot-attention-mechanism-to-videos/?utm_source=rss&utm_medium=rss&utm_campaign=google-research-open-sources-savi-an-object-centric-architecture-that-extends-the-slot-attention-mechanism-to-videos)
 
-## 2021-11-27
-
 ### MARKTECHPOST: [Apple Researchers Propose A Method For Reconstructing Training Data From Diverse Machine Learning Models By Ensemble Inversion](https://www.marktechpost.com/2021/11/27/apple-researchers-propose-a-method-for-reconstructing-training-data-from-diverse-machine-learning-models-by-ensemble-inversion/?utm_source=rss&utm_medium=rss&utm_campaign=apple-researchers-propose-a-method-for-reconstructing-training-data-from-diverse-machine-learning-models-by-ensemble-inversion)
-## 2021-11-22
-
 ### Synced: [Microsoft Asia’s Swin Transformer V2 Scales the Award-Winning ViT to 3 Billion Parameters and Achieves SOTA Performance on Vision Benchmarks](https://syncedreview.com/2021/11/22/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-149/)
 
 ### Google AI: [Predicting Text Selections with Federated Learning](http://ai.googleblog.com/2021/11/predicting-text-selections-with.html)
-
-## 2021-11-19
 
 ### MARKTECHPOST: [Imperial College London Researchers Propose A Novel Randomly Connected Neural Network For Self-Supervised Monocular Depth Estimation In Computer Vision](https://www.marktechpost.com/2021/11/19/imperial-college-london-researchers-propose-a-novel-randomly-connected-neural-network-for-self-supervised-monocular-depth-estimation-in-computer-vision/)
 
 ### Synced: [SPANN: A Highly-Efficient Billion-Scale Approximate Nearest Neighbour Search That’s 2× Faster Than the SOTA Method](https://syncedreview.com/2021/11/19/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-148/)
 
-## 2021-11-18
-
 ### Google AI: [Permutation-Invariant Neural Networks for Reinforcement Learning](http://ai.googleblog.com/2021/11/permutation-invariant-neural-networks.html)
 
-## 2021-11-17
-
 ### Google AI: [Predicting Text Readability from Scrolling Interactions](http://ai.googleblog.com/2021/11/predicting-text-readability-from.html)
-
-## 2021-11-16
 
 ### Synced: [Google Brain & Radboud U ‘Dive Into Chaos’ to Show Gradients Are Not All You Need in Dynamical Systems](https://syncedreview.com/2021/11/16/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-145/)
 
 ### MARKTECHPOST: [DeepMind Researchers Present The ‘One Pass ImageNet’ (OPIN) Problem To Study The Effectiveness Of Deep Learning In A Streaming Setting](https://www.marktechpost.com/2021/11/16/deepmind-researchers-present-the-one-pass-imagenet-opin-problem-to-study-the-effectiveness-of-deep-learning-in-a-streaming-setting/)
-
-## 2021-11-15
 
 ### Google AI: [MetNet-2: Deep Learning for 12-Hour Precipitation Forecasting](http://ai.googleblog.com/2021/11/metnet-2-deep-learning-for-12-hour.html)
 
 ### Synced: [Google’s Pet Portraits Will Find Art Doubles for Your Pets](https://syncedreview.com/2021/11/15/googles-pet-portraits-will-find-art-doubles-for-your-pets/)
 
 ### :star:Synced: [A Leap Forward in Computer Vision: Facebook AI Says Masked Autoencoders Are Scalable Vision Learners](https://syncedreview.com/2021/11/15/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-144/)
-## 2021-11-12
-
 ### :star:Synced: [DeepMind’s One Pass ImageNet: A New Benchmark for Resource Efficiency in Deep Learning](https://syncedreview.com/2021/11/12/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-143/)
-## 2021-11-11
-
 ### Google AI: [Making Better Future Predictions by Watching Unlabeled Videos](http://ai.googleblog.com/2021/11/making-better-future-predictions-by.html)
 
-## 2021-11-10
-
 ### Google AI: [Model Ensembles Are Faster Than You Think](http://ai.googleblog.com/2021/11/model-ensembles-are-faster-than-you.html)
-
-## 2021-11-09
 
 ### Synced: [Can ViT Layers Express Convolutions? Peking U, UCLA & Microsoft Researchers Say ‘Yes’](https://syncedreview.com/2021/11/09/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-141/)
 
 ### MARKTECHPOST: [MIT AI Researchers Introduce ‘PARP’: A Method To Improve The Efficiency And Performance Of A Neural Network](https://www.marktechpost.com/2021/11/09/mit-ai-researchers-introduce-parp-a-method-to-improve-the-efficiency-and-performance-of-a-neural-network/)
 
-## 2021-11-02
-
 ### MARKTECHPOST: [Researchers Propose ‘Projected-GANs’, To Improve Image Quality, Sample Efficiency, And Convergence Speed](https://www.marktechpost.com/2021/11/02/researchers-propose-projected-gans-to-improve-image-quality-sample-efficiency-and-convergence-speed/)
-## 2021-11-04
-
 ### Synced: [Washington U & Google Study Reveals How Attention Matrices Are Formed in Encoder-Decoder Architectures](https://syncedreview.com/2021/11/04/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-138/)
-
-## 2021-11-03
 
 ### :star:MARKTECHPOST: [MIT Researchers Propose A New Method To Prevent Shortcuts In Machine Learning Models By Forcing The Model To Use More Data In Its Decision-Making](https://www.marktechpost.com/2021/11/03/mit-researchers-propose-a-new-method-to-prevent-shortcuts-in-machine-learning-models-by-forcing-the-model-to-use-more-data-in-its-decision-making/)
 
 ### Google AI: [Self-Supervised Reversibility-Aware Reinforcement Learning](http://ai.googleblog.com/2021/11/self-supervised-reversibility-aware.html)
 
 ### Synced: [Twitter Cortex Proposes LMSOC for Socially Sensitive Pretraining](https://syncedreview.com/2021/11/03/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-137/)
-## 2021-10-29
+## 2021-10
 
 ### Synced: [DeepMind Study Resolves Delusions in Sequence Models for Interaction and Control](https://syncedreview.com/2021/10/29/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-134/)
 
-## 2021-10-28
-
 ### MARKTECHPOST: [Researchers Introduce ‘AugMax’: An Open-Sourced Data Augmentation Framework To Unify The Two Aspects Of Diversity And Hardness](https://www.marktechpost.com/2021/10/28/researchers-introduce-augmax-an-open-sourced-data-augmentation-framework-to-unify-the-two-aspects-of-diversity-and-hardness/)
-
-## 2021-10-25
 
 ### :star:Google AI: [Deciding Which Tasks Should Train Together in Multi-Task Neural Networks](http://ai.googleblog.com/2021/10/deciding-which-tasks-should-train.html)
 
@@ -188,27 +134,17 @@ aside:
 
 ### MARKTECHPOST: [Hugging Face Introduces “T0”, An Encoder-Decoder Model That Consumes Textual Inputs And Produces Target Responses](https://www.marktechpost.com/2021/10/25/hugging-face-introduces-t0-an-encoder-decoder-model-that-consumes-textual-inputs-and-produces-target-responses/)
 
-## 2021-10-24
-
 ### MARKTECHPOST: [CMU AI Researchers Present A New Study To Achieve Fairness and Accuracy in Machine Learning Systems For Public Policy](https://www.marktechpost.com/2021/10/24/cmu-ai-researchers-present-a-new-study-to-achieve-fairness-and-accuracy-in-machine-learning-systems-for-public-policy/)
 
-## 2021-10-21
-
 ### MARKTECHPOST: [AI Researchers From Huawei and Shanghai Jiao Tong University Introduce ‘CIPS-3D’: A 3D-Aware Generator of GANs](https://www.marktechpost.com/2021/10/21/ai-researchers-from-huawei-and-shanghai-jiao-tong-university-introduce-cips-3d-a-3d-aware-generator-of-gans/)
-
-## 2021-10-20
 
 ### Google AI: [Predicting Spreadsheet Formulas from Semi-structured Contexts](http://ai.googleblog.com/2021/10/predicting-spreadsheet-formulas-from.html)
 
 ### Synced: [Yann LeCun Team Challenges Current Beliefs on Interpolation and Extrapolation Regarding DL Model Generalization Performance](https://syncedreview.com/2021/10/20/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-127/)
 
-## 2021-10-19
-
 ### :star:Synced: [StyleNeRF: A 3D-Aware Generator for High-Resolution Image Synthesis with Explicit Style Control](https://syncedreview.com/2021/10/19/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-126/)
 
 ### MARKTECHPOST: [FlyingSquid: A Python Framework For Interactive Weak Supervision](https://www.marktechpost.com/2021/10/19/flyingsquid-a-python-framework-for-interactive-weak-supervision/)
-
-## 2021-10-18
 
 ### Google AI: [How Underspecification Presents Challenges for Machine Learning](http://ai.googleblog.com/2021/10/how-underspecification-presents.html)
 
@@ -223,23 +159,15 @@ aside:
   - Underspecification in Computer Vision
   - Underspecification in Other Applications
 
-## 2021-10-16
-
 ### MARKTECHPOST: [Researchers at ETH Zurich & Microsoft Introduce ‘PixLoc’: A Neural Network For Feature Alignment With A 3D Model Of The Environment](https://www.marktechpost.com/2021/10/16/researchers-at-eth-zurich-microsoft-introduce-pixloc-a-neural-network-for-feature-alignment-with-a-3d-model-of-the-environment/)
-
-## 2021-10-15
 
 ### Google AI: [SimVLM: Simple Visual Language Model Pre-training with Weak Supervision](http://ai.googleblog.com/2021/10/simvlm-simple-visual-language-model-pre.html)
 
 ### Synced: [Google Proposes ARDMs: Efficient Autoregressive Models That Learn to Generate in any Order](https://syncedreview.com/2021/10/15/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-124/)
 
-## 2021-10-14
-
 ### :star:Google AI: [Baselines for Uncertainty and Robustness in Deep Learning](http://ai.googleblog.com/2021/10/baselines-for-uncertainty-and.html)
 
 ### :star:Synced: [Google Researchers Explore the Limits of Large-Scale Model Pretraining](https://syncedreview.com/2021/10/14/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-123/)
-
-## 2021-10-13
 
 ### Google AI: [Self-Supervised Learning Advances Medical Image Classification](http://ai.googleblog.com/2021/10/self-supervised-learning-advances.html)
 
@@ -247,29 +175,21 @@ aside:
 
 [[Swin Transformer]](https://arxiv.org/pdf/2103.14030.pdf) [[Mip-NeRF]](https://arxiv.org/pdf/2103.13415.pdf) [[OpenGAN]](https://arxiv.org/pdf/2104.02939.pdf) [[Viewing Graph Solvability]](https://openaccess.thecvf.com/content/ICCV2021/papers/Arrigoni_Viewing_Graph_Solvability_via_Cycle_Consistency_ICCV_2021_paper.pdf) [[Common Objects in 3D]](https://arxiv.org/pdf/2109.00512.pdf) [[Pixel-Perfect Structure-from-Motion]](https://arxiv.org/pdf/2108.08291.pdf)
 
-## 2021-10-12
-
 ### :star: Synced: [Are Patches All You Need? New Study Proposes Patches Are Behind Vision Transformers’ Strong Performance](https://syncedreview.com/2021/10/12/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-121/)
 
 [[openreview]](https://openreview.net/forum?id=TVHS5Y4dNvM)
 
 ### :star:MARKTECHPOST: [NVIDIA AI Releases StyleGAN3: Alias-Free Generative Adversarial Networks](https://www.marktechpost.com/2021/10/12/nvidia-ai-releases-stylegan3-alias-free-generative-adversarial-networks/)
 
-## 2021-10-08
-
 ### :star: Synced: [Apple Study Reveals the Learned Visual Representation Similarities and Dissimilarities Between Self-Supervised and Supervised Methods](https://syncedreview.com/2021/10/08/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-120/)
 
 [[paper]](https://arxiv.org/pdf/2110.00528.pdf)
 
-## 2021-10-06
-
 ### :star:Synced: [Google Significantly Improves Visual Representations by Adding Explicit Information Compression](https://syncedreview.com/2021/10/06/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-118/)
 
-## 2021.09.30
+## 2021-09
 
 ### :star: Google AI: ​[Efficient Partitioning of Road Networks](http://ai.googleblog.com/2021/09/efficient-partitioning-of-road-networks.html)
-
-## 2021.09.29
 
 ### :star: Google AI: [Improving Generalization in Reinforcement Learning using Policy Similarity Embeddings](http://ai.googleblog.com/2021/09/improving-generalization-in.html)
 
@@ -279,8 +199,6 @@ aside:
 
 ### MARKTECHPOST: [University of Oxford Researchers Release ‘PASS’ Dataset With 1.4M+ Images (Free From Humans) For Self-Supervised Machine Learning](https://www.marktechpost.com/2021/09/29/university-of-oxford-researchers-release-pass-dataset-with-1-4m-images-free-from-humans-for-self-supervised-machine-learning/)
 
-## 2021.09.23
-
 ### Synced: [UMass Amherst & Google Improve Few-Shot Learning on NLP Benchmarks via Task Augmentation and Self-Training](https://syncedreview.com/2021/09/23/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-110/)
 
 [[paper]](https://arxiv.org/pdf/2109.06270.pdf)
@@ -288,8 +206,6 @@ aside:
 ### Google AI: [High-Quality, Robust and Responsible Direct Speech-to-Speech Translation](http://ai.googleblog.com/2021/09/high-quality-robust-and-responsible.html)
 
 [[paper]](https://arxiv.org/pdf/2107.08661.pdf)
-
-## 2021.09.22
 
 ### :star:Google AI: [Pathdreamer: A World Model for Indoor Navigation](http://ai.googleblog.com/2021/09/pathdreamer-world-model-for-indoor.html)
 
@@ -299,11 +215,7 @@ aside:
 
 **Comment**: Super Cool!
 
-## 2021.09.20
-
 ### :star:Synced: [DeepMind’s Bootstrapped Meta-Learning Enables Meta Learners to Teach Themselves](https://syncedreview.com/2021/09/20/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-107/)
-
-## 2021.09.16
 
 ### :star:Google AI: [Toward Fast and Accurate Neural Networks for Image Recognition](http://ai.googleblog.com/2021/09/toward-fast-and-accurate-neural.html)
 
@@ -327,8 +239,6 @@ aside:
 
 **Comment**: Experiment results are astonishing. Mark and read later.
 
-## 2021.09.15
-
 ### Google AI: [Revisiting Mask-Head Architectures for Novel Class Instance Segmentation](http://ai.googleblog.com/2021/09/revisiting-mask-head-architectures-for.html)
 
 [[project page]](https://google.github.io/deepmac/) [[paper]](https://arxiv.org/pdf/2104.00613.pdf) [[partially supervised segmentation paper]](https://arxiv.org/pdf/1711.10370.pdf)
@@ -341,8 +251,6 @@ Instance segmentation is an important task to many downstream applications. Coll
 
 **Comment**: I haven't read the paper yet. I hope there will be more discussion about why these two fix would bring better performance to unseen classes. Otherwise it's just a technical report.
 
-## 2021.09.09
-
 ### Google AI: [Personalized ASR Models from a Large and Diverse Disordered Speech Dataset](http://ai.googleblog.com/2021/09/personalized-asr-models-from-large-and.html)
 
 [[paper1]](https://www.isca-speech.org/archive/interspeech_2021/macdonald21_interspeech.html) [[paper2]](https://www.isca-speech.org/archive/interspeech_2021/green21_interspeech.html)
@@ -352,8 +260,6 @@ Instance segmentation is an important task to many downstream applications. Coll
 **Summary**: 
 
 With over 1 million utterances, Euphonia’s corpus is one of the largest and most diversely disordered speech corpora (in terms of disorder types and severities) and has enabled significant advances in ASR accuracy for these types of atypical speech. The results demonstrate the efficacy of personalized ASR models for recognizing a wide range of speech impairments and severities, with potential for making ASR available to a wider population of users.
-
-## 2021.09.02
 
 ### :star:Google AI: [Discovering Anomalous Data with Self-Supervised Learning](http://ai.googleblog.com/2021/09/discovering-anomalous-data-with-self.html)
 
@@ -373,11 +279,11 @@ The second paper is designed a cut and paste method for self-supervised learning
 
 **Comment**: With a fast glance of the blog, the idea of combining one-class classifier with self-learning feature extractor is trivial. The proposed distribution augmentation (DA) to separate outliers from inlier is interesting but lack of persuasion because the situation when both inliers and augmented data are uniformly spread out on a sphere isn't excluded. The second paper is more of an adaptation for defect detection of the first paper.  
 
-## 2021.05.06
+## 2021-05-06
 
 ### :star:DeepMind: [Game theory as an engine for large-scale data analysis](https://deepmind.com/blog/article/EigenGame)
 
-## 2021.03.25
+## 2021-03-25
 
 ### Andrew Ng: [A Chat with Andrew on MLOps: From Model-centric to Data-centric AI](https://www.youtube.com/watch?v=06-AZXmwHjo)
 
@@ -397,13 +303,13 @@ MLOps’ most important task: Ensure consistently high-quality data in all phase
 
 **Comment**: Like Andrew said in the webinar, we took 80% of time preparing high quality data but only 1% of AI research is about data. It would be more encouraging to see more researches about how data quality affect model performance.
 
-## 2021.01.05
+## 2021-01-05
 
 ### :star:OpenAI: [CLIP: Connecting Text and Images](https://openai.com/blog/clip/)
 
 ### :star:OpenAI: [DALL·E: Creating Images from Text](https://openai.com/blog/dall-e/)
 
-## 2020.06.17
+## 2020-06-17
 
 ### :star:OpenAI: [Image GPT](https://openai.com/blog/image-gpt/)
 

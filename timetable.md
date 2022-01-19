@@ -7,6 +7,8 @@ comment: false
 
 ## Conferences
 
+[[List with CCF]](https://jackietseng.github.io/conference_call_for_paper/conferences-with-ccf.html)
+
 
 | H-index | CCF   | Conference                                                   | Submission Deadline                                          | Notification                                                 | Conference Date          | Status                                          |
 | ------- | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------ | ----------------------------------------------- |
@@ -52,7 +54,7 @@ comment: false
 | -       | -     | ~~[MIDL 2022~~](https://2022.midl.io/)                       | ~~Dec 10, 2021 (registration)<br/>Dec 17, 2021 (submission)~~ | ~~Jan 28 - Feb 11, 2021 (rebuttal)<br/>Feb 27, 2021 (final decision)~~ | ~~Jul 6-8, 2022~~        |                                                 |
 | ~~25~~  | ~~B~~ | ~~[ICAPS 2022~~](http://icaps22.icaps-conference.org/)       | ~~Dec 10, 2021 (abstract)<br/>Dec 15, 2021 (full paper)~~    | ~~Jan 25-28, 2022 (Author Feedback)<br>Feb 18, 2022 (Notification)~~ | ~~June 19-24, 2022~~     |                                                 |
 | ~~30~~  | ~~B~~ | ~~[ICME 2022](http://2022.ieeeicme.org/)~~                   | ~~Dec 12, 2021~~                                             | ~~Mar 05, 2022~~                                             | ~~Jul 18-22, 2022~~      |                                                 |
-| ~~18~~  | ~~B~~ | ~~[IJCAI-ECAI 2022~~](https://ijcai-22.org/)                 | ~~Jan 7, 2022 (abstract)<br/>Jan 14, 2022 (full paper)~~     | ~~Feb 18, 2022 (summary rejection)<br/>Mar 16-18, 2022 (author response)<br>Mar 19-29, 2022 (paper discussion)<br>Apr 20, 2022 (notification)~~ | ~~Jul 23-29, 2022~~      |                                                 |
+| ~~18~~  | ~~B~~ | ~~[IJCAI-ECAI 2022](https://ijcai-22.org/)~~                 | ~~Jan 7, 2022 (abstract)<br/>Jan 14, 2022 (full paper)~~     | ~~Feb 18, 2022 (summary rejection)<br/>Mar 16-18, 2022 (author response)<br>Mar 19-29, 2022 (paper discussion)<br>Apr 20, 2022 (notification)~~ | ~~Jul 23-29, 2022~~      |                                                 |
 | ~~12~~  | -     | ~~[EMBC 2022](https://embc.embs.org/2022/)~~                 | ~~Jan 10, 2022~~                                             | ~~Mar 25, 2022~~                                             | ~~Jul 11-15, 2022~~      |                                                 |
 | ~~35~~  | ~~C~~ | ~~[ICPR 2022](https://www.icpr2022.com/)~~                   | ~~Jan 10, 2022 (paper registration)<br/>Jan 17, 2022 (full paper)<br/>Nov 23, 2021 (supplement)~~ | ~~Mar 14, 2022 (notification)<br>Apr 11, 2022 (rebuttal)<br>May 8, 2022 (final decision)~~ | ~~Aug 22-25, 2022~~      |                                                 |
 
