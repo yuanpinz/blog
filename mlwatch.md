@@ -10,6 +10,8 @@ aside:
 
 ## 2022-01
 
+### Synced: [Less is More: Understanding Neural Network Decisions via Simplified Yet Informative Inputs](https://syncedreview.com/2022/01/19/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-188/)
+
 ### :star: Google AI: [Introducing StylEx: A New Approach for Visual Explanation of Classifiers](http://ai.googleblog.com/2022/01/introducing-stylex-new-approach-for.html)
 
 ### Synced: [Pushing the Limits of Self-Supervised ResNets: DeepMind’s ReLICv2 Beats Strong Supervised Baselines on ImageNet](https://syncedreview.com/2022/01/17/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-186/)
