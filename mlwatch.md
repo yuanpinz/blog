@@ -10,6 +10,24 @@ aside:
 
 ## 2022-01
 
+### :star: Synced: [Yann LeCun Team’s Neural Manifold Clustering and Embedding Method Surpasses High-Dimensional Clustering Algorithm Benchmarks](https://syncedreview.com/2022/01/27/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-194/)
+
+### MARKTECHPOST: [CMU’s Latest Machine Learning Research Analyzes and Improves Spectral Normalization In GANs](https://www.marktechpost.com/2022/01/27/cmus-latest-machine-learning-research-analyzes-and-improves-spectral-normalization-in-gans/)
+
+### :star: Google AI: [Does Your Medical Image Classifier Know What It Doesn’t Know?](http://ai.googleblog.com/2022/01/does-your-medical-image-classifier-know.html)
+
+### Synced: [New Study Revisits Laplace Approximation, Validating It as an ‘Effortless’ Method for Bayesian Deep Learning](https://syncedreview.com/2022/01/25/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-192/)
+
+### Google AI: [Separating Birdsong in the Wild for Classification](http://ai.googleblog.com/2022/01/separating-birdsong-in-wild-for.html)
+
+### Google AI: [Accurate Alpha Matting for Portrait Mode Selfies on Pixel 6](http://ai.googleblog.com/2022/01/accurate-alpha-matting-for-portrait.html)
+
+### MARKTECHPOST: [Researchers at Meta and the University of Texas at Austin Propose ‘Detic’: A Method to Detect Twenty-Thousand Classes using Image-Level Supervision](https://www.marktechpost.com/2022/01/20/researchers-at-meta-and-the-university-of-texas-at-austin-propose-detic-a-method-to-detect-twenty-thousand-classes-using-image-level-supervision/?utm_source=rss&utm_medium=rss&utm_campaign=researchers-at-meta-and-the-university-of-texas-at-austin-propose-detic-a-method-to-detect-twenty-thousand-classes-using-image-level-supervision)
+
+### :star: ​MARKTECHPOST: [Deepmind Researchers Propose ‘ReLICv2’: Pushing The Limits of Self-Supervised ResNets](https://www.marktechpost.com/2022/01/22/deepmind-researchers-propose-relicv2-pushing-the-limits-of-self-supervised-resnets/?utm_source=rss&utm_medium=rss&utm_campaign=deepmind-researchers-propose-relicv2-pushing-the-limits-of-self-supervised-resnets)
+
+### MARKTECHPOST: [Latest MIT Research To Test Whether Popular Methods For Understanding Machine Learning Models Are Working Correctly](https://www.marktechpost.com/2022/01/19/latest-mit-research-to-test-whether-popular-methods-for-understanding-machine-learning-models-are-working-correctly/?utm_source=rss&utm_medium=rss&utm_campaign=latest-mit-research-to-test-whether-popular-methods-for-understanding-machine-learning-models-are-working-correctly)
+
 ### Synced: [Less is More: Understanding Neural Network Decisions via Simplified Yet Informative Inputs](https://syncedreview.com/2022/01/19/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-188/)
 
 ### :star: Google AI: [Introducing StylEx: A New Approach for Visual Explanation of Classifiers](http://ai.googleblog.com/2022/01/introducing-stylex-new-approach-for.html)
