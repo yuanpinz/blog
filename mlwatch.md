@@ -10,6 +10,8 @@ aside:
 
 ## 2022-01
 
+### MARKTECHPOST: [Researchers Introduce ‘SimpleBits’: An Information-Reduction Strategy That Learns To Synthesize Simplified Inputs For Neural Network Understanding](https://www.marktechpost.com/2022/01/28/researchers-introduce-simplebits-an-information-reduction-strategy-that-learns-to-synthesize-simplified-inputs-for-neural-network-understanding/)
+
 ### :star: ​Google AI: [Controlling Neural Networks with Rule Representations](http://ai.googleblog.com/2022/01/controlling-neural-networks-with-rule.html)
 
 ### OpenAI: [Aligning Language Models to Follow Instructions](https://openai.com/blog/instruction-following/)
