@@ -10,6 +10,12 @@ aside:
 
 ## 2022-01
 
+### :star: ​Google AI: [Controlling Neural Networks with Rule Representations](http://ai.googleblog.com/2022/01/controlling-neural-networks-with-rule.html)
+
+### OpenAI: [Aligning Language Models to Follow Instructions](https://openai.com/blog/instruction-following/)
+
+### MARKTECHPOST: [Meta AI Introduces ‘Data2vec’ : A Self-Supervised Algorithm That Works For Speech, Computer Vision, and NLP](https://www.marktechpost.com/2022/01/28/meta-ai-introduces-data2vec-a-self-supervised-algorithm-that-works-for-speech-computer-vision-and-nlp/)
+
 ### :star: Synced: [Yann LeCun Team’s Neural Manifold Clustering and Embedding Method Surpasses High-Dimensional Clustering Algorithm Benchmarks](https://syncedreview.com/2022/01/27/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-194/)
 
 ### MARKTECHPOST: [CMU’s Latest Machine Learning Research Analyzes and Improves Spectral Normalization In GANs](https://www.marktechpost.com/2022/01/27/cmus-latest-machine-learning-research-analyzes-and-improves-spectral-normalization-in-gans/)
