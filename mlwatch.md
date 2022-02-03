@@ -8,7 +8,17 @@ aside:
 
 # Machine Learning Researches
 
+## 2022-02
+
+### Synced: [Yoshua Bengio Team Challenges the Task-Diversity Paradigm in Meta-Learning](https://syncedreview.com/2022/02/01/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-197/)
+
+### Synced: [Oxford U Proposes COIN++, a Neural Compression Framework for Different Data Modalities](https://syncedreview.com/2022/02/02/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-198/)
+
 ## 2022-01
+
+### MARKTECHPOST: [A New AI Research Propose ‘UniFormer’ (Unified transFormer) to Unify Convolution and Self-Attention for Visual Recognition](https://www.marktechpost.com/2022/01/31/a-new-ai-research-propose-uniformer-unified-transformer-to-unify-convolution-and-self-attention-for-visual-recognition/)
+
+### MARKTECHPOST: [Meta AI Research Proposes ‘OMNIVORE’: A Single Vision (Computer Vision) Model For Many Different Visual Modalities](https://www.marktechpost.com/2022/01/30/meta-ai-research-proposes-omnivore-a-single-vision-computer-vision-model-for-many-different-visual-modalities/)
 
 ### MARKTECHPOST: [Latest Research Based On AI Building AI Models](https://www.marktechpost.com/2022/01/29/latest-research-based-on-ai-building-ai-models/)
 
