@@ -10,6 +10,8 @@ aside:
 
 ## 2022-02
 
+### MARKTECHPOST: [MIT Researchers Introduce a Machine Learning Technique that can Automatically Describe the Roles of Individual Neurons in a Neural Network with Natural Language](https://www.marktechpost.com/2022/02/06/mit-researchers-introduce-a-machine-learning-technique-that-can-automatically-describe-the-roles-of-individual-neurons-in-a-neural-network-with-natural-language/)
+
 ### Synced: [Yoshua Bengio Team Challenges the Task-Diversity Paradigm in Meta-Learning](https://syncedreview.com/2022/02/01/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-197/)
 
 ### Synced: [Oxford U Proposes COIN++, a Neural Compression Framework for Different Data Modalities](https://syncedreview.com/2022/02/02/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-198/)
