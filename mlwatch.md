@@ -10,6 +10,8 @@ aside:
 
 ## 2022-02
 
+### MARKTECHPOST: [In A Latest Computer Vision Research, Researchers Introduce ‘JoJoGAN’: An AI Method With One-Shot Face Stylization](https://www.marktechpost.com/2022/02/12/in-a-latest-computer-vision-research-researchers-introduce-jojogan-an-ai-method-with-one-shot-face-stylization/)
+
 ### Google AI: [Nested Hierarchical Transformer: Towards Accurate, Data-Efficient, and Interpretable Visual Understanding](http://ai.googleblog.com/2022/02/nested-hierarchical-transformer-towards.html)
 
 ### MARKTECHPOST: [MIT Researchers Introduce a Machine Learning Technique that can Automatically Describe the Roles of Individual Neurons in a Neural Network with Natural Language](https://www.marktechpost.com/2022/02/06/mit-researchers-introduce-a-machine-learning-technique-that-can-automatically-describe-the-roles-of-individual-neurons-in-a-neural-network-with-natural-language/)
