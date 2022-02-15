@@ -10,6 +10,12 @@ aside:
 
 ## 2022-02
 
+### Google AI: [An International Scientific Challenge for the Diagnosis and Gleason Grading of Prostate Cancer](http://ai.googleblog.com/2022/02/an-international-scientific-challenge.html)
+
+### MARKTECHPOST: [UT Austin Researchers Demonstrate a Deep Learning Technique That Achieves High-Quality Image Reconstructions Based on MRI Datasets](https://www.marktechpost.com/2022/02/14/ut-austin-researchers-demonstrate-a-deep-learning-technique-that-achieves-high-quality-image-reconstructions-based-on-mri-datasets/)
+
+### Synced: [Conditional Image Generation and Accelerates Autoregressive Decoding by up to 64x](https://syncedreview.com/2022/02/14/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-205/)
+
 ### MARKTECHPOST: [In A Latest Computer Vision Research, Researchers Introduce ‘JoJoGAN’: An AI Method With One-Shot Face Stylization](https://www.marktechpost.com/2022/02/12/in-a-latest-computer-vision-research-researchers-introduce-jojogan-an-ai-method-with-one-shot-face-stylization/)
 
 ### Google AI: [Nested Hierarchical Transformer: Towards Accurate, Data-Efficient, and Interpretable Visual Understanding](http://ai.googleblog.com/2022/02/nested-hierarchical-transformer-towards.html)
