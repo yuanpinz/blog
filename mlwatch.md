@@ -10,6 +10,8 @@ aside:
 
 ## 2022-02
 
+### Synced: [UC Berkeley, Waymo & Google’s Block-NeRF Neural Scene Representation Method Renders an Entire San Francisco Neighbourhood](https://syncedreview.com/2022/02/15/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-206/)
+
 ### Google AI: [An International Scientific Challenge for the Diagnosis and Gleason Grading of Prostate Cancer](http://ai.googleblog.com/2022/02/an-international-scientific-challenge.html)
 
 ### MARKTECHPOST: [UT Austin Researchers Demonstrate a Deep Learning Technique That Achieves High-Quality Image Reconstructions Based on MRI Datasets](https://www.marktechpost.com/2022/02/14/ut-austin-researchers-demonstrate-a-deep-learning-technique-that-achieves-high-quality-image-reconstructions-based-on-mri-datasets/)
