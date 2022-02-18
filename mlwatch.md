@@ -10,6 +10,10 @@ aside:
 
 ## 2022-02
 
+### Google AI: [Machine Learning for Mechanical Ventilation Control](http://ai.googleblog.com/2022/02/machine-learning-for-mechanical.html)
+
+### Synced: [DeepMind & UCL Propose Neural Population Learning: An Efficient and General Framework That Learns Strategically Diverse Policies for Real-World Games](https://syncedreview.com/2022/02/17/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-208/)
+
 ### Synced: [UC Berkeley, Waymo & Google’s Block-NeRF Neural Scene Representation Method Renders an Entire San Francisco Neighbourhood](https://syncedreview.com/2022/02/15/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-206/)
 
 ### Google AI: [An International Scientific Challenge for the Diagnosis and Gleason Grading of Prostate Cancer](http://ai.googleblog.com/2022/02/an-international-scientific-challenge.html)
