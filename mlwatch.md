@@ -8,6 +8,12 @@ aside:
 
 # Machine Learning Researches
 
+## 2022-03
+
+### Synced: [Microsoft Improves Transformer Stability to Successfully Scale Extremely Deep Models to 1000 Layers](https://syncedreview.com/2022/03/03/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-217/)
+
+### Synced: [Jeff Dean Co-authors Guidelines for Resolving Instability and Quality Issues in the Design of Effective Sparse Expert Models](https://syncedreview.com/2022/03/02/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-216/)
+
 ## 2022-02
 
 ### Google AI: [Machine Learning for Mechanical Ventilation Control](http://ai.googleblog.com/2022/02/machine-learning-for-mechanical.html)
@@ -374,6 +380,38 @@ MLOps’ most important task: Ensure consistently high-quality data in all phase
 ---
 
 # Reddit/r/\<ML Topics\>
+
+### r/MachineLearning: [\[D\] When, if ever, does it make sense to store training data in a SQL database?](https://www.reddit.com/r/MachineLearning/comments/syrt09/d_when_if_ever_does_it_make_sense_to_store/)
+
+> Posted by [u/sql-gumby](https://www.reddit.com/user/sql-gumby/)
+>
+> I’m trying to come up with some best practices when using PostgreSQL for the DS team. We’ve had a couple of projects using SQL DBs as training data sources for deep learning (DL) with upwards of 1TB of data. Note that in these projects, the training data very rarely changes or gets updated over the course of the project - for training, we typically isolate a large pool of data from any live applications. One major benefit over other storage approaches (e.g. file system) we’ve seen is the straightforward range query syntax for time series data, e.g.
+>
+> ```
+> SELECT ts, col1, ..., colN
+> FROM some_table
+> WHERE ts >= ? AND ts <= ?
+> ```
+>
+> useful when sampling contiguous time series blocks of some variable length during batch generation. When working, e.g. with files, the same functionality can be tricky to implement if the data is not nicely structured. On the other hand, we did have a lot of issues when using the DB:
+>
+> - Slow queries if the data is very large, even with the appropriate indices in place
+> - Zombie queries / processes on the DB (possibly caused by prematurely terminated training loops), eventually needing a DB restart
+> - A lot of time spent on ingesting the data, optimising the queries, data layout and DB maintenance
+>
+> which leads me to believe that using the DB doesn’t really pay off, especially when the data is really large. It seems like even rolling a bespoke storage and query approach on top of a file system is better for performance and maintainability.
+>
+> Does anybody have examples of DL projects where a SQL data store does make sense even with large data?
+>
+> > [SurplusPopulation](https://www.reddit.com/user/SurplusPopulation/)
+> >
+> > My company uses postgres as a training data backend and works with very large NLP and Vision datasets. When running experiments we don't interface with the database directly though: we typically trigger exports and work with those flat files in our experiments until we need to refresh for some reason.
+> >
+> > Comments like
+> >
+> > > Zombie queries / processes on the DB (possibly caused by prematurely terminated training loops), eventually needing a DB restart
+> >
+> > make me think the problem is probably on the implementation side. RDBs scale incredibly well if used properly. Do you have someone on your team with RDB DBA chops that can help you investigate why it is not performing? Reddit will not be able to help you diagnose such a vague question
 
 ### r/MachineLearning: [[D] 5 considerations for Deploying Machine Learning Models in Production – what did I miss?](https://www.reddit.com/r/MachineLearning/comments/qz3qtv/d_5_considerations_for_deploying_machine_learning/)
 
