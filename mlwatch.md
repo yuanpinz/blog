@@ -10,6 +10,12 @@ aside:
 
 ## 2022-03
 
+### MARKTECHPOST: [A New Deep Learning Study Investigate and Clarify the Intrinsic Behavior of Transformers in Computer Vision](https://www.marktechpost.com/2022/03/04/a-new-deep-learning-study-investigate-and-clarify-the-intrinsic-behavior-of-transformers-in-computer-vision/)
+
+### MARKTECHPOST: [Apple Researchers Introduce ‘NEO’ to Generalize Confusion Matrix Visualization and Enable Machine Learning Practitioners to Find Hidden Confusions](https://www.marktechpost.com/2022/03/06/apple-researchers-introduce-neo-to-generalize-confusion-matrix-visualization-and-enable-machine-learning-practitioners-to-find-hidden-confusions/)
+
+### Google AI: [Learning from Weakly-Labeled Videos via Sub-Concepts](http://ai.googleblog.com/2022/03/learning-from-weakly-labeled-videos-via.html)
+
 ### Synced: [Microsoft Improves Transformer Stability to Successfully Scale Extremely Deep Models to 1000 Layers](https://syncedreview.com/2022/03/03/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-217/)
 
 ### Synced: [Jeff Dean Co-authors Guidelines for Resolving Instability and Quality Issues in the Design of Effective Sparse Expert Models](https://syncedreview.com/2022/03/02/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-216/)
