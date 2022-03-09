@@ -10,6 +10,8 @@ aside:
 
 ## 2022-03
 
+### Synced: [Google Researchers Propose a Novel Method, Called Constrained Instance reWeighting (CIW), To Reduce Noisy Labels in Deep Neural Networks](https://www.marktechpost.com/2022/03/08/google-researchers-propose-a-novel-method-called-constrained-instance-reweighting-ciw-to-reduce-noisy-labels-in-deep-neural-networks/)
+
 ### MARKTECHPOST: [A New Deep Learning Study Investigate and Clarify the Intrinsic Behavior of Transformers in Computer Vision](https://www.marktechpost.com/2022/03/04/a-new-deep-learning-study-investigate-and-clarify-the-intrinsic-behavior-of-transformers-in-computer-vision/)
 
 ### MARKTECHPOST: [Apple Researchers Introduce ‘NEO’ to Generalize Confusion Matrix Visualization and Enable Machine Learning Practitioners to Find Hidden Confusions](https://www.marktechpost.com/2022/03/06/apple-researchers-introduce-neo-to-generalize-confusion-matrix-visualization-and-enable-machine-learning-practitioners-to-find-hidden-confusions/)
