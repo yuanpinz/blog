@@ -6,9 +6,13 @@ aside:
     toc: true
 ---
 
-# Machine Learning Researches
+# Machine Learning Researc hes
 
 ## 2022-03
+
+### MARKTECHPOST: [CMU Researchers Introduce a Method for Estimating the Generalization Error of Black-Box Deep Neural Networks With Only Unlabeled Data](https://www.marktechpost.com/2022/03/13/cmu-researchers-introduce-a-method-for-estimating-the-generalization-error-of-black-box-deep-neural-networks-with-only-unlabeled-data/)
+
+### Google AI: [Robust Graph Neural Networks](http://ai.googleblog.com/2022/03/robust-graph-neural-networks.html)
 
 ### Synced: [Google Researchers Propose a Novel Method, Called Constrained Instance reWeighting (CIW), To Reduce Noisy Labels in Deep Neural Networks](https://www.marktechpost.com/2022/03/08/google-researchers-propose-a-novel-method-called-constrained-instance-reweighting-ciw-to-reduce-noisy-labels-in-deep-neural-networks/)
 
