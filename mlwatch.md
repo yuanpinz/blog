@@ -10,6 +10,18 @@ aside:
 
 ## 2022-03
 
+### MARKTECHPOST: [MIT Researchers Suggest That a Certain Type of Robust Computer-Vision Model Perceives Visual Representations Similarly To The Way Humans Do Using Peripheral Vision](https://www.marktechpost.com/2022/03/16/mit-researchers-suggest-that-a-certain-type-of-robust-computer-vision-model-perceives-visual-representations-similarly-to-the-way-humans-do-using-peripheral-vision/)
+
+### MARKTECHPOST: [This Research Paper Explain The Compute Trends Across Three Eras Of Machine Learning](https://www.marktechpost.com/2022/03/18/this-research-paper-explain-the-compute-trends-across-three-eras-of-machine-learning/)
+
+### MARKTECHPOST: [MIT Researchers Developed A Machine-Learning Model To Generate Extremely Realistic Synthetic Data That Can Train Another Model For Downstream Vision Tasks](https://www.marktechpost.com/2022/03/20/mit-researchers-developed-a-machine-learning-model-to-generate-extremely-realistic-synthetic-data-that-can-train-another-model-for-downstream-vision-tasks/)
+
+### MARKTECHPOST: [LinkedIn Researchers Open-Source ‘FastTreeSHAP’: A Python Package That Enables An Efficient Interpretation of Tree-Based Machine Learning Models](https://www.marktechpost.com/2022/03/20/linkedin-researchers-open-source-fasttreeshap-a-python-package-that-enables-an-efficient-interpretation-of-tree-based-machine-learning-models/)
+
+### Synced: [Meta AI’s Sparse All-MLP Model Doubles Training Efficiency Compared to Transformers](https://syncedreview.com/2022/03/17/meta-ais-sparse-all-mlp-model-doubles-training-efficiency-compared-to-transformers/)
+
+### Google AI: [Multimodal Bottleneck Transformer (MBT): A New Model for Modality Fusion](http://ai.googleblog.com/2022/03/multimodal-bottleneck-transformer-mbt.html)
+
 ### MARKTECHPOST: [CMU Researchers Introduce a Method for Estimating the Generalization Error of Black-Box Deep Neural Networks With Only Unlabeled Data](https://www.marktechpost.com/2022/03/13/cmu-researchers-introduce-a-method-for-estimating-the-generalization-error-of-black-box-deep-neural-networks-with-only-unlabeled-data/)
 
 ### Google AI: [Robust Graph Neural Networks](http://ai.googleblog.com/2022/03/robust-graph-neural-networks.html)
