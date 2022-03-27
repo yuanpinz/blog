@@ -10,6 +10,16 @@ aside:
 
 ## 2022-03
 
+### MARKTECHPOST: [Google Research Proposes MaskGIT: A New Deep Learning Technique Based on Bi-Directional Generative Transformers For High-Quality and Fast Image Synthesis](https://www.marktechpost.com/2022/03/22/google-research-proposes-maskgit-a-new-deep-learning-technique-based-on-bi-directional-generative-transformers-for-high-quality-and-fast-image-synthesis/)
+
+### MARKTECHPOST: [This Latest Paper From Twitter and Oxford Research Shows That Feature Propagation is an Efficient and Scalable Approach for Handling Missing Features in Graph Machine Learning Applications](https://www.marktechpost.com/2022/03/25/this-latest-paper-from-twitter-and-oxford-research-shows-that-feature-propagation-is-an-efficient-and-scalable-approach-for-handling-missing-features-in-graph-machine-learning-applications/)
+
+### Synced: [DeepMind Proposes Symmetry-Based Representations as a Fundamental Principle for Learning Good Representations in General Intelligence](https://syncedreview.com/2022/03/22/deepmind-proposes-symmetry-based-representations-as-a-fundamental-principle-for-learning-good-representations-in-general-intelligence/)
+
+### Synced: [Microsoft’s FocalNets Replace ViTs’ Self-Attention With Focal Modulation to Improve Visual Modelling](https://syncedreview.com/2022/03/25/microsofts-focalnets-replace-vits-self-attention-with-focal-modulation-to-improve-visual-modelling/)
+
+### Google AI: [Detecting Signs of Disease from External Images of the Eye](http://ai.googleblog.com/2022/03/detecting-signs-of-disease-from.html)
+
 ### MARKTECHPOST: [MIT Researchers Suggest That a Certain Type of Robust Computer-Vision Model Perceives Visual Representations Similarly To The Way Humans Do Using Peripheral Vision](https://www.marktechpost.com/2022/03/16/mit-researchers-suggest-that-a-certain-type-of-robust-computer-vision-model-perceives-visual-representations-similarly-to-the-way-humans-do-using-peripheral-vision/)
 
 ### MARKTECHPOST: [This Research Paper Explain The Compute Trends Across Three Eras Of Machine Learning](https://www.marktechpost.com/2022/03/18/this-research-paper-explain-the-compute-trends-across-three-eras-of-machine-learning/)
