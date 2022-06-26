@@ -6,7 +6,11 @@ aside:
     toc: true
 ---
 
-# Machine Learning Researc hes
+# Machine Learning Researches
+
+## 2022-06
+
+### Google AI: [Scanned Objects by Google Research: A Dataset of 3D-Scanned Common Household Items](http://ai.googleblog.com/2022/06/scanned-objects-by-google-research.html)
 
 ## 2022-03
 
