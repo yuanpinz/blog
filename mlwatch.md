@@ -8,9 +8,25 @@ aside:
 
 # Machine Learning Researches
 
+## 2022-07
+
+### Google AI: [Deep Hierarchical Planning from Pixels](http://ai.googleblog.com/2022/07/deep-hierarchical-planning-from-pixels.html)
+
+### Synced: [NYU Explores the Principles for Modelling Neural Collapse and Its Role in Generalization](https://syncedreview.com/2022/07/06/nyu-explores-the-principles-for-modelling-neural-collapse-and-its-role-in-generalization/)
+
+### MARKTECHPOST: [IBM Researchers Showcase an Image Classifier Pretrained on Synthetic Data and Fine-Tuned on Real Data for Tasks, Did as Well as One Trained Exclusively on ImageNet’s Database of Real-World Photos](https://www.marktechpost.com/2022/07/06/ibm-researchers-showcase-an-image-classifier-pretrained-on-synthetic-data-and-fine-tuned-on-real-data-for-tasks-did-as-well-as-one-trained-exclusively-on-imagenets-database-of-real-world-pho/)
+
+### MARKTECHPOST: [AI Researchers From China Introduce a New Vision GNN (ViG) Architecture to Extract Graph Level Feature for Visual Tasks](https://www.marktechpost.com/2022/07/06/ai-researchers-from-china-introduce-a-new-vision-gnn-vig-architecture-to-extract-graph-level-feature-for-visual-tasks/)
+
+### MARKTECHPOST: [MIT Researchers Developed Tools to Help Data Scientists Make the Features Used in Machine-Learning Models More Understandable for End-Users](https://www.marktechpost.com/2022/07/05/mit-researchers-developed-tools-to-help-data-scientists-make-the-features-used-in-machine-learning-models-more-understandable-for-end-users/)
+
+### MARKTECHPOST: [Researchers from George Mason and Emory University Develop ‘RES’: a Robust Python Framework for Learning to Explain DNNs (Deep Neural Networks) with Explanation Supervision](https://www.marktechpost.com/2022/07/04/researchers-from-george-mason-and-emory-university-develop-res-a-robust-python-framework-for-learning-to-explain-dnns-deep-neural-networks-with-explanation-supervision/)
+
 ## 2022-06
 
 ### Google AI: [Scanned Objects by Google Research: A Dataset of 3D-Scanned Common Household Items](http://ai.googleblog.com/2022/06/scanned-objects-by-google-research.html)
+
+### Synced: [NVIDIA’s Global Context ViT Achieves SOTA Performance on CV Tasks Without Expensive Computation](https://syncedreview.com/2022/06/29/nvidias-global-context-vit-achieves-sota-performance-on-cv-tasks-without-expensive-computation/)
 
 ## 2022-03
 
