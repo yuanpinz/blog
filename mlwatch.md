@@ -8,7 +8,17 @@ aside:
 
 # Machine Learning Researches
 
-## 2022-07
+## 2022-07 
+
+### Synced: [Google & DeepMind Study the Interactions Between Scaling Laws and Neural Network Architectures](https://syncedreview.com/2022/07/27/google-deepmind-study-the-interactions-between-scaling-laws-and-neural-network-architectures/)
+
+### Google AI: [Enhancing Backpropagation via Local Loss Optimization](http://ai.googleblog.com/2022/07/enhancing-backpropagation-via-local.html)
+
+### Google AI: [Simplified Transfer Learning for Chest Radiography Model Development](http://ai.googleblog.com/2022/07/simplified-transfer-learning-for-chest.html)
+
+### Google AI: [Towards Reliability in Deep Learning Systems](http://ai.googleblog.com/2022/07/towards-reliability-in-deep-learning.html)
+
+### Google AI: [Revisiting Mask Transformer from a Clustering Perspective](http://ai.googleblog.com/2022/07/revisiting-mask-transformer-from.html)
 
 ### Google AI: [Deep Hierarchical Planning from Pixels](http://ai.googleblog.com/2022/07/deep-hierarchical-planning-from-pixels.html)
 
