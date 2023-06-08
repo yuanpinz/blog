@@ -7,7 +7,8 @@ comment: false
 
 ### About Me
 
-My name is Yuanpin Zhou. I'm a rookie data scientist. I like reading and watching movies besides doing research. My favorite NBA team is the Golden State Warriors. I enjoy Joe Lacob's vision, Steve Kerr's leadership, the selfless and joyful culture, and their beautiful basketball movement.
+Hello and welcome to my blog! I’m Yuanpin Zhou, a machine learning engineer based in Hangzhou, Zhejiang, China. I work on AI healthcare projects, applying artificial intelligence and medical imaging techniques to improve diagnosis and treatment. I’m passionate about reading social sciences and literature books, watching movies and TV shows with intriguing plots. I also love photography, especially taking pictures of animals and landscapes.
 
-This blog is about machine learning, programming, and everything else.
+This blog is where I share my insights and opinions on AI research and applications, programming, and other topics that interest me.
 
+You can learn more about me and my work at [Google Scholar](https://scholar.google.com/citations?user=zCtNbycAAAAJ&hl=en) and [LinkedIn](https://www.linkedin.com/in/yuanpinzhou/). 

@@ -11,7 +11,7 @@ comment: false
 
 [![](https://raw.githubusercontent.com/yuanpinz/blog/main/assets/images/pages/flickr-page.png "My flickr")](https://www.flickr.com/photos/yuanpinz/)
 
-## Things I recommend
+## My favourite
 
 ### Books
 
