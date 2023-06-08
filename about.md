@@ -3,7 +3,7 @@ layout: article
 key: page-about 
 comment: false
 ---
-<img src="assets/images/pages/me.jpg" alt="me" style="zoom:25%;" align="left" vspace="100" hspace="100"/>{:.circle.shadow}
+<img src="assets/images/pages/me.jpg" alt="me" style="zoom:25%;" align="left" vspace="200" hspace="100"/>{:.circle.shadow}
 
 ### About Me
 
