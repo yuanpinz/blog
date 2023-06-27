@@ -35,7 +35,11 @@ comment: false
 | ----------------------------------------------------------- | ------------------------------------------------------------ | -------------------------------------------- | ------------------------------------------------------------ |
 | ![5ff0643b3ffa7d37b383840f](assets/images/pages/hibana.jpg) |                                                              |                                              |                                                              |
 
-## Golden State Warriors
+## Role Models
+
+[![steve-kerr](assets/images/pages/steve-kerr.jpg "Steve Kerr")](gsw/steve-kerr.html)
+
+<!-- ## Golden State Warriors
 
 > I love this team.
 >
@@ -54,5 +58,5 @@ comment: false
 
 
 
-
+ -->
 
