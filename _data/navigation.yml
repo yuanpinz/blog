@@ -2,22 +2,22 @@ header:
   # - title: ML Watch
   #   url: mlwatch.html
 
-  - title: 
-      # @start locale config
-      en      : &EN       Zhihu
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      zh-Hans : &ZH_HANS  知乎
-      zh      : *ZH_HANS
-      zh-CN   : *ZH_HANS
-      zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  知乎
-      zh-TW   : *ZH_HANT
-      zh-HK   : *ZH_HANT
-      # @end locale config
-    url: https://www.zhihu.com/people/zhouyp6
+  # - title: 
+  #     # @start locale config
+  #     en      : &EN       Zhihu
+  #     en-GB   : *EN
+  #     en-US   : *EN
+  #     en-CA   : *EN
+  #     en-AU   : *EN
+  #     zh-Hans : &ZH_HANS  知乎
+  #     zh      : *ZH_HANS
+  #     zh-CN   : *ZH_HANS
+  #     zh-SG   : *ZH_HANS
+  #     zh-Hant : &ZH_HANT  知乎
+  #     zh-TW   : *ZH_HANT
+  #     zh-HK   : *ZH_HANT
+  #     # @end locale config
+  #   url: https://www.zhihu.com/people/zhouyp6
 
   - title: Gallery
     url: /gallery.html
