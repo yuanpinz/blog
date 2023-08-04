@@ -35,9 +35,9 @@ comment: false
 | ----------------------------------------------------------- | ------------------------------------------------------------ | -------------------------------------------- | ------------------------------------------------------------ |
 | ![5ff0643b3ffa7d37b383840f](assets/images/pages/hibana.jpg) |                                                              |                                              |                                                              |
 
-## Role Models
+## People
 
-[![steve-kerr](assets/images/pages/steve-kerr.jpg "Steve Kerr")](gsw/steve-kerr.html)
+| [![steve-kerr](assets/images/pages/steve-kerr.jpg "Steve Kerr")](gsw/steve-kerr.html) | [![kp](https://zh.wikipedia.org/wiki/File:%E6%9F%AF%E6%96%87%E5%93%B2_IMG_9322-1_(14300234412)_(cropped).jpg "柯文哲")](https://zh.wikipedia.org/wiki/%E6%9F%AF%E6%96%87%E5%93%B2) |
 
 <!-- ## Golden State Warriors
 
