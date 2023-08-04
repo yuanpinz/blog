@@ -2,7 +2,7 @@ header:
   # - title: ML Watch
   #   url: mlwatch.html
 
-  - title: Zhihu
+  - title: 
       # @start locale config
       en      : &EN       Zhihu
       en-GB   : *EN
